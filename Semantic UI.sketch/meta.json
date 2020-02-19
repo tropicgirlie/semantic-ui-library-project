@@ -1,7 +1,7 @@
 {
 "app":"com.bohemiancoding.sketch3",
 "appVersion":"63.1",
-"autosaved":1,
+"autosaved":0,
 "build":92452,
 "commit":"6896e2bfdb0a2a03f745e4054a8c5fc58565f9f1",
 "compatibilityVersion":99,
@@ -1336,8 +1336,17 @@
 "E9BD4A5D-861E-4E92-8006-D56CCD72D94C":{
 "name":"Icon/Check"
 },
+"11F19F68-1BC4-4864-A262-1E419D2A8A02":{
+"name":"Button/Small/Double Icon (Dark Typo)"
+},
+"2086830A-DD9E-441A-8DA4-D289A49C31C3":{
+"name":"Button/Basic/Medium/Labeled/Regular/Gray/Left With Icon Only"
+},
 "2385E63B-DEE3-4BB6-B509-F03F6E2FE1E2":{
 "name":"Button/Basic/Medium/With Left Icon White Bold"
+},
+"48F3D49A-EF1A-456C-A31F-098962F8B2B2":{
+"name":"Button/Large/Button + Label + Double Icon + Label (Dark Typo)"
 },
 "E1E282FE-5176-4450-BE4D-C5D02C239F13":{
 "name":"Calendar/Element Type/Different Month Number"
@@ -1381,6 +1390,9 @@
 "32FC56AD-6888-4B8A-BCF9-F50B8D385EDF":{
 "name":"Icon/Calendar"
 },
+"B0EEF50B-09EA-45BC-8894-10AD739476C1":{
+"name":"Button/Large/Button + Label + Right Icon (Dark Typo)"
+},
 "B6029FE8-8328-44C3-9B86-8F80519EF285":{
 "name":"Button/Default/Large/Button + Label + Double Icon + Label"
 },
@@ -1405,6 +1417,9 @@
 "4FEC9CEF-16BB-4728-A30B-A2C60730284B":{
 "name":"Button/Default/Medium/Default"
 },
+"79440B57-34F2-4091-B35B-4A5D6728E6DC":{
+"name":"Button/Basic/Medium/Labeled/Regular/Gray/Right With Icon"
+},
 "A5FC8B1F-6A2A-4652-B036-A5046F441A1E":{
 "name":"Button/Primary/Small/Icon Only"
 },
@@ -1413,6 +1428,12 @@
 },
 "5346A3CF-A16B-4EBF-B648-9C8625D9D615":{
 "name":"Icon/Cross (Error)"
+},
+"5D08982E-01D5-4D67-82A0-4B1A9C3A5414":{
+"name":"Button/Medium/Button + Label + Image + Right Icon (Dark Typo)"
+},
+"F81DB7CF-2D26-4DC9-B0C0-AB96B4D1C0DF":{
+"name":"Button/Small/With Right Icon (Dark Typo)"
 },
 "8CF1CE5F-E1F8-4F4F-B696-6BDE5052C865":{
 "name":"Logo/White"
@@ -1446,6 +1467,9 @@
 },
 "5815D42B-C163-48DC-ABE4-E63606A6ADB3":{
 "name":"Dropdown/Item/Top Search"
+},
+"53777AB6-8C94-4039-91E5-910C02EA2371":{
+"name":"Button/Basic/Medium/Labeled/Regular/Gray/Right With Icon Only"
 },
 "48A97FF8-5E90-44AA-800A-E0FADCC58597":{
 "name":"Icon/Info"
@@ -1516,6 +1540,9 @@
 "6EBB62E5-5EA2-499D-9C7B-1E2F54132B01":{
 "name":"Icon/Loading (Grey)"
 },
+"273D4F7C-8C06-47B2-8DF4-B3AC27F56F28":{
+"name":"Button/Large/Default (Dark Typo)"
+},
 "7CAD071C-D69D-4138-A263-EE83C75562CA":{
 "name":"Checkbox/Inactive"
 },
@@ -1552,6 +1579,12 @@
 "96DDB4AE-9360-4E42-822C-0D329460470D":{
 "name":"Button/Primary/Medium/Button + Label + Double Icon + Label"
 },
+"014AFC5E-EBF8-407C-AB49-429B98ADCA79":{
+"name":"Button/Medium/Button + Label + Right Icon (Dark Typo)"
+},
+"95B4DF19-C1ED-4CFA-B49F-EEB08190A9CA":{
+"name":"Button/Medium/With Left Icon (Dark Typo)"
+},
 "44D61805-9E37-4753-86EC-39E48AD12D82":{
 "name":"Dropdown/Item/Active with Icon"
 },
@@ -1572,6 +1605,9 @@
 },
 "B15CB8A3-99E8-4287-9FD9-37CBF4C8E78B":{
 "name":"Icon/Remove"
+},
+"72614A71-0123-44B7-934E-D13FA4FAFB11":{
+"name":"Button/Small/Icon Only (Dark Typo)"
 },
 "7D863425-5119-44B8-8FC4-434DCA933B7C":{
 "name":"Button/Primary/Medium/Double Icon"
@@ -1639,6 +1675,9 @@
 "F407168A-8252-4AC3-A523-242B35852298":{
 "name":"Button/Default/Medium/Middle with Icon"
 },
+"335AC30E-8F79-4BF0-923F-A94B0B378E63":{
+"name":"Button/Large/With Left Icon (Dark Typo)"
+},
 "43FBE535-5840-4DD5-BE11-FF63479A2C61":{
 "name":"Button/Default/Medium/Button + Label + Double Icon + Label"
 },
@@ -1672,6 +1711,12 @@
 "CBCF9F8E-52D2-44BA-A019-E02A320C348B":{
 "name":"Radio Button/Active"
 },
+"39BE136A-D584-4D4E-9552-D8A88C51DF44":{
+"name":"Button/Basic/Medium/Labeled/Pointing/White/Left With Icon"
+},
+"2B5B4872-4A94-4F88-8195-06E771913607":{
+"name":"Button/Basic/Large/Button + Label + Double Icon + Label"
+},
 "A22E1FF7-7EB1-42EA-87CF-BB6524AACC44":{
 "name":"Breadcrumb/Simple/Active"
 },
@@ -1690,6 +1735,12 @@
 "DA544A9F-C3D1-4C64-9455-FD762F1105CB":{
 "name":"Label/Pointing/Default/Up"
 },
+"505C7E48-E430-4D4F-BF85-A2FEC2FFBA72":{
+"name":"Button/Medium/Button + Label + Double Icon + Label (Dark Typo)"
+},
+"F9C55FDC-E5AC-4D04-9B51-3BD43D725290":{
+"name":"Button/Basic/Medium/Labeled/Regular/Gray/Left With Icon Copy"
+},
 "21C21835-A925-4C7A-AEE2-4E2C47DEB040":{
 "name":"Button/Primary/Small/Default"
 },
@@ -1707,6 +1758,12 @@
 },
 "068CD456-C8FF-4B79-811E-BF06D10E1B9F":{
 "name":"Tab/Active"
+},
+"91FB6D61-E8F2-4C70-86CC-818D5B1156AC":{
+"name":"Button/Basic/Medium/Icon Only"
+},
+"34A1647F-3A89-4255-95DB-2C2853362A3F":{
+"name":"Button/Large/With Right Icon (Dark Typo)"
 },
 "71FB5A51-3777-475A-88F6-5CA7B04AADB8":{
 "name":"Radio Button/Inactive"
@@ -1729,8 +1786,20 @@
 "B4B25746-D04C-489A-A0FC-0C81FFBDF5FF":{
 "name":"Icon/Arrow (Dropdown)"
 },
+"9FBBE14F-2D01-48CD-A382-2B0D653A47B2":{
+"name":"Button/Medium/Default (Dark Typo)"
+},
+"5ECEC918-F3C3-4B1C-8BF5-5B874FA382D0":{
+"name":"Button/Medium/With Right Icon (Dark Typo)"
+},
+"ECE8DCD8-93B2-4BA9-8198-F62E6388B0B8":{
+"name":"Button/Medium/Double Icon (Dark Typo)"
+},
 "D1CBFCF4-AA55-40A4-BA80-42411C3CF7D8":{
 "name":"Tab/Inactive"
+},
+"6EF8E0FD-75A0-4177-BD31-84CD5F770C6E":{
+"name":"Button/Basic/Medium/Labeled/Pointing/White/Right"
 },
 "14F40177-1805-4B98-AE77-CADECC98DA47":{
 "name":"Dropdown/Item/Active + Left Icon + Icon"
@@ -1740,6 +1809,9 @@
 },
 "B2E4A5DC-6CDE-4B38-A046-EE3C76A8B70C":{
 "name":"Input/Default + Label"
+},
+"48D0DD8A-0C8F-4844-815F-BC5DC5B3D5AE":{
+"name":"Button/Large/Icon Only (Dark Typo)"
 },
 "B16A614E-1E96-4851-93EF-00C496AF0ED0":{
 "name":"Button/Basic/Medium/Middle with Dark Text and Icon Right Align"
@@ -1758,6 +1830,9 @@
 },
 "74BFF843-BF7F-427B-A796-17CE3C221B20":{
 "name":"Button/Primary/Medium/With Right Icon"
+},
+"02CF903E-51B4-4C5B-8BDA-0C401BE8C871":{
+"name":"Button/Medium/Icon Only (Dark Typo)"
 },
 "3827C648-FD4A-4BA4-9001-78600B69F13C":{
 "name":"Button/Basic/Medium/Double Icon"
@@ -1785,6 +1860,9 @@
 },
 "3AFCB036-C164-4487-A253-AF10D4D0E926":{
 "name":"Icon/Arrow Left"
+},
+"D907AE45-2347-4409-9253-A491125A2703":{
+"name":"Button/Small/With Left Icon (Dark Typo)"
 },
 "9665A3D8-8893-4913-B0BE-F0291768AF60":{
 "name":"Button/Primary/Medium/Left with Text + Icon"
@@ -1852,6 +1930,9 @@
 "EC7D4142-26A0-4B41-B9F0-00116EA57AFF":{
 "name":"Button/Basic/Medium/With Right Icon"
 },
+"69ED7E20-D8BC-4BFD-AC49-839F4E31C4D4":{
+"name":"Button/Small/Default (Dark Typo)"
+},
 "753262A0-87FE-46E0-8068-E78C92A41E95":{
 "name":"Button/Default/Medium/Circular"
 },
@@ -1863,6 +1944,9 @@
 },
 "0E4450A1-A72A-4E46-989F-F316B717F750":{
 "name":"Button/Basic/Medium/Labeled/Regular/Inverted/Right With Icon Only"
+},
+"FA3415B7-AE4F-4E94-ABFF-38AAB9B7F12B":{
+"name":"Button/Large/Double Icon (Dark Typo)"
 },
 "3F2D7045-6654-447C-9AF5-825C6BAB66D7":{
 "name":"Button/Inverted/Medium/With Left Icon"
@@ -1879,14 +1963,8 @@
 "05941D07-92F9-4E6F-84A2-980298F23C21":{
 "name":"Toggle/Active + Label"
 },
-"014AFC5E-EBF8-407C-AB49-429B98ADCA79":{
-"name":"Button/Medium/Button + Label + Right Icon (Dark Typo)"
-},
 "026FC2DA-9FDF-4C29-80B5-B480049CC7E0":{
 "name":"UI/Border/Rounded (100px)/Success"
-},
-"02CF903E-51B4-4C5B-8BDA-0C401BE8C871":{
-"name":"Button/Medium/Icon Only (Dark Typo)"
 },
 "0410FD30-5B0E-4D56-B273-FA51B6460ACA":{
 "name":"UI/Border/Custom (Your Setup)/Hover"
@@ -1896,9 +1974,6 @@
 },
 "0C73C009-75BF-470D-BD2B-372B12301AE8":{
 "name":"UI/Card/Image Header"
-},
-"11F19F68-1BC4-4864-A262-1E419D2A8A02":{
-"name":"Button/Small/Double Icon (Dark Typo)"
 },
 "12621FAE-EC22-4189-8E6C-A8394F767F81":{
 "name":"UI/Color/Flat/Grey 50%"
@@ -1915,20 +1990,11 @@
 "1FE9F1C5-47A0-4CC5-B71A-0432AC9A90E0":{
 "name":"UI/Container/Custom (Your Setup)/Left Only"
 },
-"2086830A-DD9E-441A-8DA4-D289A49C31C3":{
-"name":"Button/Basic/Medium/Labeled/Regular/Gray/Left With Icon Only"
-},
 "223AB805-8D21-4431-9673-6D07E425ED7C":{
 "name":"UI/Border/Custom (Your Setup)/1px - 10%White"
 },
 "25F29648-CFF5-4D47-B498-2C9702E0F271":{
 "name":"UI/Color/Flat/Grey"
-},
-"273D4F7C-8C06-47B2-8DF4-B3AC27F56F28":{
-"name":"Button/Large/Default (Dark Typo)"
-},
-"2B5B4872-4A94-4F88-8195-06E771913607":{
-"name":"Button/Basic/Large/Button + Label + Double Icon + Label"
 },
 "2DA340CA-8986-460D-BD8B-C7377A19E831":{
 "name":"UI/Border/Sharp/1px - 10%White"
@@ -1936,23 +2002,14 @@
 "2FC798BD-8D70-4522-987C-74698628FFFB":{
 "name":" UI/Border/Sharp/1px - 5%White"
 },
-"335AC30E-8F79-4BF0-923F-A94B0B378E63":{
-"name":"Button/Large/With Left Icon (Dark Typo)"
-},
 "33E68B8A-3BAA-44B0-BF16-3B33DEE251B0":{
 "name":"UI/Border/Sharp/Error"
-},
-"34A1647F-3A89-4255-95DB-2C2853362A3F":{
-"name":"Button/Large/With Right Icon (Dark Typo)"
 },
 "35C651C1-2DEC-454C-A00C-CAB89C610544":{
 "name":"UI/Border/Rounded (100px)/Placeholder (Default)"
 },
 "395F2717-82A1-4709-A0BE-F5AA0F943CFB":{
 "name":"UI/Color/Flat/Green"
-},
-"39BE136A-D584-4D4E-9552-D8A88C51DF44":{
-"name":"Button/Basic/Medium/Labeled/Pointing/White/Left With Icon"
 },
 "3A091399-DF57-4DF4-8E1F-E0403567BFB2":{
 "name":"UI/Color/Flat/Secondary"
@@ -1972,26 +2029,14 @@
 "445B185E-A84B-42F9-BBC7-7C1D07A54B39":{
 "name":"Icon/Social/Instagram"
 },
-"48D0DD8A-0C8F-4844-815F-BC5DC5B3D5AE":{
-"name":"Button/Large/Icon Only (Dark Typo)"
-},
-"48F3D49A-EF1A-456C-A31F-098962F8B2B2":{
-"name":"Button/Large/Button + Label + Double Icon + Label (Dark Typo)"
-},
 "4ACE6DE0-F849-4F10-BA59-E8B5B0B39B57":{
 "name":"UI/Container/Sharp"
 },
 "4EABA62A-15C0-4F64-8463-254CFC012ABF":{
 "name":"UI/Container/Custom Dropdown"
 },
-"505C7E48-E430-4D4F-BF85-A2FEC2FFBA72":{
-"name":"Button/Medium/Button + Label + Double Icon + Label (Dark Typo)"
-},
 "5308E803-B64E-4796-8CE5-8566B8534A98":{
 "name":"Icon/User"
-},
-"53777AB6-8C94-4039-91E5-910C02EA2371":{
-"name":"Button/Basic/Medium/Labeled/Regular/Gray/Right With Icon Only"
 },
 "53D8AC74-44C7-4A6E-BFC6-618ABE50629B":{
 "name":"UI/Border/Custom (Your Setup)/Success"
@@ -2017,17 +2062,11 @@
 "5BA48FDF-E405-487E-B7D8-5C729A63A46F":{
 "name":"UI/Color/Flat/Orange"
 },
-"5D08982E-01D5-4D67-82A0-4B1A9C3A5414":{
-"name":"Button/Medium/Button + Label + Image + Right Icon (Dark Typo)"
-},
 "5D641891-5903-4B9C-8B25-C1A03B5FF9EB":{
 "name":"UI/Container/Custom (Your Setup)/Bottom Only"
 },
 "5D80215E-757E-4CC5-B9AE-5C26234DA3FE":{
 "name":"UI/Border/Sharp/Focus"
-},
-"5ECEC918-F3C3-4B1C-8BF5-5B874FA382D0":{
-"name":"Button/Medium/With Right Icon (Dark Typo)"
 },
 "5EE1CF15-CF99-41A2-B63E-070FD1BB9E8B":{
 "name":"UI/Card/Group"
@@ -2035,26 +2074,17 @@
 "618481E1-247C-44E3-B0F1-46935AA8A7F4":{
 "name":"UI/Container/Custom (Your Setup)/Left Only Outline"
 },
-"69ED7E20-D8BC-4BFD-AC49-839F4E31C4D4":{
-"name":"Button/Small/Default (Dark Typo)"
-},
 "6A301EBB-0C33-4751-AE4A-CC46336ABDE7":{
 "name":"UI/Color/Flat/Olive"
 },
 "6C6DF7B7-6224-483F-9965-CA08D0C3936D":{
 "name":"UI/Border/Custom (Your Setup)/Placeholder (Default)"
 },
-"6EF8E0FD-75A0-4177-BD31-84CD5F770C6E":{
-"name":"Button/Basic/Medium/Labeled/Pointing/White/Right"
-},
 "71CA3441-D322-460F-9847-925AC01D478C":{
 "name":"UI/Border/Custom (Your Setup)/2px/Grey"
 },
 "72026BE2-E7C4-4C62-AB52-1DFEA27CB3C6":{
 "name":"Icon/Social/Pinterest"
-},
-"72614A71-0123-44B7-934E-D13FA4FAFB11":{
-"name":"Button/Small/Icon Only (Dark Typo)"
 },
 "7619C0AF-F051-4A9A-BF5F-A53C9B9D37D0":{
 "name":"UI/Container/Custom (Your Setup)/Right Only Outline"
@@ -2067,9 +2097,6 @@
 },
 "793ED991-0A6E-46A9-8F29-EBE33FAB7D82":{
 "name":"UI/Border/Rounded (4px)/2px - 10%Black"
-},
-"79440B57-34F2-4091-B35B-4A5D6728E6DC":{
-"name":"Button/Basic/Medium/Labeled/Regular/Gray/Right With Icon"
 },
 "7AFB891B-A7CC-4CDA-8E56-F8B7572179E4":{
 "name":"UI/Border/Rounded (100px)/Hover"
@@ -2113,17 +2140,11 @@
 "8FD047F7-9B0E-4648-89D3-D52A41396A9A":{
 "name":"UI/Border/Custom (Your Setup)/2px - 5%White"
 },
-"91FB6D61-E8F2-4C70-86CC-818D5B1156AC":{
-"name":"Button/Basic/Medium/Icon Only"
-},
 "9395B755-846C-4B57-AE90-213A70A639AD":{
 "name":"UI/Color/Flat/Primary"
 },
 "94D883A3-6350-45E3-8CFC-26068F249874":{
 "name":"Icon/Social/Linkedin"
-},
-"95B4DF19-C1ED-4CFA-B49F-EEB08190A9CA":{
-"name":"Button/Medium/With Left Icon (Dark Typo)"
 },
 "97A97DFC-5D7E-4829-A5AC-B0AA87BBE4AB":{
 "name":"Icon/Social/Vimeo"
@@ -2139,9 +2160,6 @@
 },
 "9C585012-36C5-4792-973E-DF49D89F3C3E":{
 "name":"UI/Border/Rounded (4px)/1px - 5%White"
-},
-"9FBBE14F-2D01-48CD-A382-2B0D653A47B2":{
-"name":"Button/Medium/Default (Dark Typo)"
 },
 "A0327801-7100-4C36-92DE-316E454679A6":{
 "name":"UI/Color/Flat/Dark"
@@ -2163,9 +2181,6 @@
 },
 "AED5F523-2913-469F-8E19-69A5B9A681EE":{
 "name":"UI/Color/Gradient/Blue"
-},
-"B0EEF50B-09EA-45BC-8894-10AD739476C1":{
-"name":"Button/Large/Button + Label + Right Icon (Dark Typo)"
 },
 "B134DB1D-5056-48E5-9FA5-5610D0862118":{
 "name":"UI/Color/Gradient/Green"
@@ -2200,9 +2215,6 @@
 "D792FB08-CFE9-4280-A831-C309F27039C0":{
 "name":"UI/Card/Button"
 },
-"D907AE45-2347-4409-9253-A491125A2703":{
-"name":"Button/Small/With Left Icon (Dark Typo)"
-},
 "D9EE1891-CFEC-4035-97AF-E40E4DA588E1":{
 "name":"UI/Border/Rounded (4px)/Success"
 },
@@ -2236,9 +2248,6 @@
 "EA55138B-0DA8-49B4-9F27-87203E6C4796":{
 "name":"UI/Color/Flat/Dark 2"
 },
-"ECE8DCD8-93B2-4BA9-8198-F62E6388B0B8":{
-"name":"Button/Medium/Double Icon (Dark Typo)"
-},
 "ED7B25D8-9873-4BB6-8796-21BA1040F773":{
 "name":"UI/Color/Flat/Pink"
 },
@@ -2256,15 +2265,6 @@
 },
 "F784C2B0-0DE0-480B-8C88-6804454A9B88":{
 "name":"UI/Border/Sharp/Hover"
-},
-"F81DB7CF-2D26-4DC9-B0C0-AB96B4D1C0DF":{
-"name":"Button/Small/With Right Icon (Dark Typo)"
-},
-"F9C55FDC-E5AC-4D04-9B51-3BD43D725290":{
-"name":"Button/Basic/Medium/Labeled/Regular/Gray/Left With Icon Copy"
-},
-"FA3415B7-AE4F-4E94-ABFF-38AAB9B7F12B":{
-"name":"Button/Large/Double Icon (Dark Typo)"
 }
 }
 }
