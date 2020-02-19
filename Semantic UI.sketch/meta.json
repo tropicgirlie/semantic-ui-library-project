@@ -1,5 +1,35 @@
 {
+"app":"com.bohemiancoding.sketch3",
+"appVersion":"63.1",
+"autosaved":0,
+"build":92452,
 "commit":"6896e2bfdb0a2a03f745e4054a8c5fc58565f9f1",
+"compatibilityVersion":99,
+"created":{
+"app":"com.bohemiancoding.sketch3",
+"appVersion":"63.1",
+"build":92452,
+"commit":"6896e2bfdb0a2a03f745e4054a8c5fc58565f9f1",
+"compatibilityVersion":99,
+"variant":"NONAPPSTORE",
+"version":123
+},
+"fonts":[
+"HelveticaNeue-Bold",
+"Lato-Bold",
+"GothamUltra",
+"Helvetica",
+"LastResort",
+"GothamBold",
+"AppleColorEmoji",
+"OpenSans",
+"ProximaNova-Semibold",
+"FontAwesome",
+"Lato-Regular",
+"OpenSans-Semibold",
+"Lato-Italic",
+"LucidaGrande"
+],
 "pagesAndArtboards":{
 "074EDD44-2D9E-485B-9B5D-55AEE550AF5C":{
 "name":"Styleguide 3 - Cards",
@@ -1932,43 +1962,316 @@
 },
 "05941D07-92F9-4E6F-84A2-980298F23C21":{
 "name":"Toggle/Active + Label"
-}
-}
-}
 },
-"version":123,
-"fonts":[
-"HelveticaNeue-Bold",
-"Lato-Bold",
-"GothamUltra",
-"Helvetica",
-"LastResort",
-"GothamBold",
-"AppleColorEmoji",
-"OpenSans",
-"ProximaNova-Semibold",
-"FontAwesome",
-"Lato-Regular",
-"OpenSans-Semibold",
-"Lato-Italic",
-"LucidaGrande"
-],
-"compatibilityVersion":99,
-"app":"com.bohemiancoding.sketch3",
-"autosaved":0,
-"variant":"NONAPPSTORE",
-"created":{
-"commit":"6896e2bfdb0a2a03f745e4054a8c5fc58565f9f1",
-"appVersion":"63.1",
-"build":92452,
-"app":"com.bohemiancoding.sketch3",
-"compatibilityVersion":99,
-"version":123,
-"variant":"NONAPPSTORE"
+"026FC2DA-9FDF-4C29-80B5-B480049CC7E0":{
+"name":"UI/Border/Rounded (100px)/Success"
+},
+"0410FD30-5B0E-4D56-B273-FA51B6460ACA":{
+"name":"UI/Border/Custom (Your Setup)/Hover"
+},
+"0BB6C16A-D8E4-472B-BB6A-4829C22376D1":{
+"name":"UI/Color/Flat/Prominent Colour"
+},
+"0C73C009-75BF-470D-BD2B-372B12301AE8":{
+"name":"UI/Card/Image Header"
+},
+"12621FAE-EC22-4189-8E6C-A8394F767F81":{
+"name":"UI/Color/Flat/Grey 50%"
+},
+"192781B4-E4E1-4844-84D5-36AEAE47545F":{
+"name":"UI/Color/Flat/Grey 75%"
+},
+"1F7DB0AF-EFAD-4DE5-8D75-6B23362DF041":{
+"name":"UI/Color/Flat/White (Default)"
+},
+"1FE9A2ED-9B02-4D38-B95D-0151E5491CC0":{
+"name":"UI/Container/Custom (Your Setup)/Right Only"
+},
+"1FE9F1C5-47A0-4CC5-B71A-0432AC9A90E0":{
+"name":"UI/Container/Custom (Your Setup)/Left Only"
+},
+"223AB805-8D21-4431-9673-6D07E425ED7C":{
+"name":"UI/Border/Custom (Your Setup)/1px - 10%White"
+},
+"25F29648-CFF5-4D47-B498-2C9702E0F271":{
+"name":"UI/Color/Flat/Grey"
+},
+"2DA340CA-8986-460D-BD8B-C7377A19E831":{
+"name":"UI/Border/Sharp/1px - 10%White"
+},
+"2FC798BD-8D70-4522-987C-74698628FFFB":{
+"name":" UI/Border/Sharp/1px - 5%White"
+},
+"33E68B8A-3BAA-44B0-BF16-3B33DEE251B0":{
+"name":"UI/Border/Sharp/Error"
+},
+"35C651C1-2DEC-454C-A00C-CAB89C610544":{
+"name":"UI/Border/Rounded (100px)/Placeholder (Default)"
+},
+"395F2717-82A1-4709-A0BE-F5AA0F943CFB":{
+"name":"UI/Color/Flat/Green"
+},
+"3A091399-DF57-4DF4-8E1F-E0403567BFB2":{
+"name":"UI/Color/Flat/Secondary"
+},
+"3A185EE3-2C1F-4916-AE39-D3FA55FFBFAE":{
+"name":"UI/Card/Image"
+},
+"3BB08265-383B-40C8-BB21-FA407A51F295":{
+"name":"Icon/Social/G+"
+},
+"41FB0BF2-2C62-4EBB-886F-7D357A8B7C46":{
+"name":"UI/Color/Flat/Icon Color"
+},
+"423EC08A-70EB-4649-AFA7-0EB4A8DB0E15":{
+"name":"UI/Border/Custom (Your Setup)/Focus"
+},
+"445B185E-A84B-42F9-BBC7-7C1D07A54B39":{
+"name":"Icon/Social/Instagram"
+},
+"4ACE6DE0-F849-4F10-BA59-E8B5B0B39B57":{
+"name":"UI/Container/Sharp"
+},
+"4EABA62A-15C0-4F64-8463-254CFC012ABF":{
+"name":"UI/Container/Custom Dropdown"
+},
+"5308E803-B64E-4796-8CE5-8566B8534A98":{
+"name":"Icon/User"
+},
+"53D8AC74-44C7-4A6E-BFC6-618ABE50629B":{
+"name":"UI/Border/Custom (Your Setup)/Success"
+},
+"5458F596-E196-4072-B993-651898B23B1B":{
+"name":"Icon/Social/Twitter"
+},
+"5739270E-16DB-4EB6-B1B2-B5F99705CDC9":{
+"name":"UI/Color/Gradient/Secondary Gradient"
+},
+"59291649-6445-4975-871E-4A9EAB7BC4C2":{
+"name":"UI/Border/Rounded (100px)/2px - 5%White"
+},
+"59856488-B5E9-437C-9EC2-D0416FFE4CA9":{
+"name":"UI/Border/Custom (Your Setup)/2px/White"
+},
+"59B6EFE4-7FFA-447D-B5B4-F9C495DB560E":{
+"name":"UI/Color/Gradient/Violet"
+},
+"5A0CE220-22B8-4842-A439-0280C7AFC347":{
+"name":"UI/Color/Flat/Blue"
+},
+"5BA48FDF-E405-487E-B7D8-5C729A63A46F":{
+"name":"UI/Color/Flat/Orange"
+},
+"5D641891-5903-4B9C-8B25-C1A03B5FF9EB":{
+"name":"UI/Container/Custom (Your Setup)/Bottom Only"
+},
+"5D80215E-757E-4CC5-B9AE-5C26234DA3FE":{
+"name":"UI/Border/Sharp/Focus"
+},
+"5EE1CF15-CF99-41A2-B63E-070FD1BB9E8B":{
+"name":"UI/Card/Group"
+},
+"618481E1-247C-44E3-B0F1-46935AA8A7F4":{
+"name":"UI/Container/Custom (Your Setup)/Left Only Outline"
+},
+"6A301EBB-0C33-4751-AE4A-CC46336ABDE7":{
+"name":"UI/Color/Flat/Olive"
+},
+"6C6DF7B7-6224-483F-9965-CA08D0C3936D":{
+"name":"UI/Border/Custom (Your Setup)/Placeholder (Default)"
+},
+"71CA3441-D322-460F-9847-925AC01D478C":{
+"name":"UI/Border/Custom (Your Setup)/2px/Grey"
+},
+"72026BE2-E7C4-4C62-AB52-1DFEA27CB3C6":{
+"name":"Icon/Social/Pinterest"
+},
+"7619C0AF-F051-4A9A-BF5F-A53C9B9D37D0":{
+"name":"UI/Container/Custom (Your Setup)/Right Only Outline"
+},
+"78163EAD-3CB7-4846-A6F4-4DAAE420BD1A":{
+"name":"UI/Border/Rounded (4px)/Error"
+},
+"79069CF0-692D-4749-AC55-A09F4E39F406":{
+"name":"UI/Border/Custom (Your Setup)/2px/Blue"
+},
+"793ED991-0A6E-46A9-8F29-EBE33FAB7D82":{
+"name":"UI/Border/Rounded (4px)/2px - 10%Black"
+},
+"7AFB891B-A7CC-4CDA-8E56-F8B7572179E4":{
+"name":"UI/Border/Rounded (100px)/Hover"
+},
+"7F4F3F7B-D26A-4506-9B29-E3470E6DDEBB":{
+"name":"UI/Border/Custom (Your Setup)/1px - 10%Black"
+},
+"81ED2359-A225-47CC-B416-439563CD52BF":{
+"name":"UI/Container/Custom (Your Setup)/Top Only"
+},
+"825ADF40-F694-4C67-9746-C022A502B7E6":{
+"name":"UI/Color/Flat/Brown"
+},
+"83FC94C1-7135-4DAC-8608-1FE435EF9E51":{
+"name":"UI/Border/Rounded (100px)/1px - 5%White"
+},
+"8475C998-716A-4BDA-A526-7B8FEDBE3B38":{
+"name":"UI/Border/Sharp/2px - 5%White"
+},
+"86CD7D58-3FA1-48BB-95B7-CE41868EBCC1":{
+"name":"UI/Border/Rounded (100px)/1px - 10%Black"
+},
+"87D41FD7-A572-4892-B1BE-DEF32C03CB00":{
+"name":"UI/Container/Custom (Your Setup)"
+},
+"8A49F54F-B600-4AF8-B7C8-CA4DCFB67428":{
+"name":"UI/Border/Rounded (4px)/1px - 10%Black"
+},
+"8B774429-3EE9-491E-9DF4-EF58D7FCBAE2":{
+"name":"UI/Color/Flat/Yellow"
+},
+"8C27D542-B4EB-4D5F-AD74-7212F7676601":{
+"name":"UI/Card/No Image"
+},
+"8C53449F-F17B-495B-8859-AD260E505DF1":{
+"name":"UI/Container/Rounded (100px)"
+},
+"8E6A6C1D-E809-426C-ADB5-460D44B68C4D":{
+"name":"UI/Color/Flat/Violet"
+},
+"8FD047F7-9B0E-4648-89D3-D52A41396A9A":{
+"name":"UI/Border/Custom (Your Setup)/2px - 5%White"
+},
+"9395B755-846C-4B57-AE90-213A70A639AD":{
+"name":"UI/Color/Flat/Primary"
+},
+"94D883A3-6350-45E3-8CFC-26068F249874":{
+"name":"Icon/Social/Linkedin"
+},
+"97A97DFC-5D7E-4829-A5AC-B0AA87BBE4AB":{
+"name":"Icon/Social/Vimeo"
+},
+"980FD108-E6AD-49F3-966C-AA70F39F53A0":{
+"name":"UI/Border/Rounded (100px)/2px - 10%Black"
+},
+"98FBEDCE-809D-4A18-B3F3-E42C9D458579":{
+"name":"Icon/Social/Facebook"
+},
+"9B09F7B0-B45A-40F1-BA36-60639852C50D":{
+"name":"UI/Border/Rounded (4px)/Focus"
+},
+"9C585012-36C5-4792-973E-DF49D89F3C3E":{
+"name":"UI/Border/Rounded (4px)/1px - 5%White"
+},
+"A0327801-7100-4C36-92DE-316E454679A6":{
+"name":"UI/Color/Flat/Dark"
+},
+"A0674536-574E-4217-91CB-ADA8C2880131":{
+"name":"UI/Border/Custom (Your Setup)/2px - 10%Black"
+},
+"A27F49C6-EBE2-4196-9E34-F4EAB6E59FCB":{
+"name":"UI/Container/Custom (Your Setup)/Left Only Arrow"
+},
+"A62E07A3-3E7B-40E0-B7E5-7ED9E62B0F41":{
+"name":"UI/Border/Rounded (4px)/Placeholder (Default)"
+},
+"AD6D60C9-A0EE-4F1F-98C3-E14E55189CC6":{
+"name":"UI/Color/Flat/Teal"
+},
+"AE4F4A8B-F27B-4CBC-A51A-2D8F2410B0F7":{
+"name":"UI/Border/Sharp/Placeholder (Default)"
+},
+"AED5F523-2913-469F-8E19-69A5B9A681EE":{
+"name":"UI/Color/Gradient/Blue"
+},
+"B134DB1D-5056-48E5-9FA5-5610D0862118":{
+"name":"UI/Color/Gradient/Green"
+},
+"B28D2CF5-83CC-4F40-9F84-8D5D5948F6F2":{
+"name":"UI/Container/No Shadow"
+},
+"B42B0542-7C77-4450-ACEC-E7542ACFBE08":{
+"name":"UI/Container/Rounded (4px)"
+},
+"B4DD99CE-B3DB-4890-98F4-8C224D199866":{
+"name":"UI/Color/Gradient/Red"
+},
+"B57CA0C1-3B07-431C-90A8-269C2459686A":{
+"name":"UI/Border/Sharp/1px - 10%Black"
+},
+"B6F7D14E-DC78-437B-A6BC-544DCA68D619":{
+"name":"UI/Border/Custom (Your Setup)/Error"
+},
+"C3CC8CD1-C258-428F-9A21-3D234BB10680":{
+"name":"UI/Border/Rounded (4px)/1px - 10%White"
+},
+"C8925BCB-CC03-4472-8ADB-C39CC8BA4B7C":{
+"name":"UI/Border/Rounded (100px)/Focus"
+},
+"D1B3F2E7-9D0A-44CF-B45C-C49B8DB9980B":{
+"name":"UI/Color/Flat/Red"
+},
+"D4290BE2-FBEF-4F47-93CB-E9CD5DCD31EB":{
+"name":"UI/Color/Flat/Light Blue"
+},
+"D792FB08-CFE9-4280-A831-C309F27039C0":{
+"name":"UI/Card/Button"
+},
+"D9EE1891-CFEC-4035-97AF-E40E4DA588E1":{
+"name":"UI/Border/Rounded (4px)/Success"
+},
+"DC49FC92-486D-436A-8291-D13D5559C355":{
+"name":"UI/Border/Sharp/2px - 10%Black"
+},
+"DD980524-387A-47B3-8C84-5131DFD57803":{
+"name":"UI/Color/Gradient/Black"
+},
+"DF0884D7-60E7-45BE-924E-BDCDC9633102":{
+"name":"UI/Border/Rounded (100px)/Error"
+},
+"E0532766-5974-4EEB-97E2-1C34CD55AB08":{
+"name":"UI/Color/Gradient/Orange"
+},
+"E33F079B-8B62-4F35-AADB-4CB09982E453":{
+"name":"UI/Border/Custom (Your Setup)/1px - 5%White"
+},
+"E45BF6E5-B815-4D2E-A79C-879EF1EE136B":{
+"name":"UI/Container/Custom (Your Setup)/Right Only Arrow"
+},
+"E4CB0533-765B-4DFE-9BBF-87A2305ABA7B":{
+"name":"UI/Color/Gradient/Default"
+},
+"E8FB6BCD-DCB3-42B1-9356-AECB99EA2F11":{
+"name":"UI/Border/Rounded (4px)/2px - 5%White"
+},
+"E957D237-CF04-43A6-A4D4-E669E879E15F":{
+"name":"UI/Border/Rounded (100px)/1px - 10%White"
+},
+"EA55138B-0DA8-49B4-9F27-87203E6C4796":{
+"name":"UI/Color/Flat/Dark 2"
+},
+"ED7B25D8-9873-4BB6-8796-21BA1040F773":{
+"name":"UI/Color/Flat/Pink"
+},
+"EED9EFAE-94EA-4D57-855B-2A27C2A76A6E":{
+"name":"UI/Border/Sharp/Success"
+},
+"EF68F200-24DE-4AA8-9E42-DC55744880E4":{
+"name":"UI/Border/Rounded (4px)/Hover"
+},
+"F26AC5FA-E268-434D-9A67-BEA1242754D5":{
+"name":"UI/Color/Flat/Elements Base"
+},
+"F67DB36B-4727-48CB-A0EF-B315634751A0":{
+"name":"UI/Color/Gradient/Primary Gradient"
+},
+"F784C2B0-0DE0-480B-8C88-6804454A9B88":{
+"name":"UI/Border/Sharp/Hover"
+}
+}
+}
 },
 "saveHistory":[
 "NONAPPSTORE.92452"
 ],
-"appVersion":"63.1",
-"build":92452
+"variant":"NONAPPSTORE",
+"version":123
 }
