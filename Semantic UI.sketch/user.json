@@ -60,8 +60,8 @@
 "zoomValue":0.25
 },
 "1FBC0F60-4812-4754-AB80-4ED9C64F3CE9":{
-"scrollOrigin":"{349, -871}",
-"zoomValue":0.5
+"scrollOrigin":"{1201, -4041}",
+"zoomValue":2
 },
 "D8762BCD-510E-4257-BE50-4BABA3060133":{
 "scrollOrigin":"{228, 283}",
@@ -106,13 +106,27 @@
 "document":{
 "cloudShare":null,
 "expandedLayerStylePathsInSidebar":[],
-"pageListHeight":446,
+"pageListHeight":128,
 "pageListCollapsed":0,
 "libraryListCollapsed":0,
 "expandedSymbolPathsInSidebar":[
-"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/UI",
 "/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Breadcrumb",
-"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Tag"
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Dropdown",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Pagination",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Tag",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Checkbox",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Calendar",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Notification",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Progress Bar",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/UI",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Input",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Label",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Tab",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Logo",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Toggle",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Radio Button",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Button",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Tooltip"
 ],
 "expandedSymbolPathsInPopover":[],
 "expandedTextStylePathsInSidebar":[]

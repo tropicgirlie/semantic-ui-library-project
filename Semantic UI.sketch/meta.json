@@ -1,5 +1,5 @@
 {
-"commit":"6896e2bfdb0a2a03f745e4054a8c5fc58565f9f1",
+"commit":"81eff2f2d8beb0088d444fdc433b9f6e1bf021f0",
 "pagesAndArtboards":{
 "074EDD44-2D9E-485B-9B5D-55AEE550AF5C":{
 "name":"Styleguide 3 - Cards",
@@ -1303,6 +1303,9 @@
 "07E9E837-00AF-4454-B043-4961E30DB7A8":{
 "name":"Button/Basic/Medium/Button + Label + Image + Right Icon"
 },
+"E9BD4A5D-861E-4E92-8006-D56CCD72D94C":{
+"name":"Icon/Check"
+},
 "2385E63B-DEE3-4BB6-B509-F03F6E2FE1E2":{
 "name":"Button/Basic/Medium/With Left Icon White Bold"
 },
@@ -1345,8 +1348,14 @@
 "FC14B153-DE40-4F88-86AC-5D78156673ED":{
 "name":"Breadcrumb/Number Circles/Inactive + Icon"
 },
+"32FC56AD-6888-4B8A-BCF9-F50B8D385EDF":{
+"name":"Icon/Calendar"
+},
 "B6029FE8-8328-44C3-9B86-8F80519EF285":{
 "name":"Button/Default/Large/Button + Label + Double Icon + Label"
+},
+"83E08E97-FBA9-415F-8BBE-0D79F5FBB67B":{
+"name":"Icon/Check Small (for Checkbox)"
 },
 "D6FCB2C1-62EF-489F-B33A-B2B449BCACE6":{
 "name":"Calendar/Numbers Row/One Row"
@@ -1356,6 +1365,9 @@
 },
 "72ED0D88-1D78-4F25-86C8-CDBF48E93B9E":{
 "name":"Button/Basic/Medium/Labeled/Regular/Inverted/Left With Icon"
+},
+"DA33281A-C287-44CC-9BD5-30AB240EEF47":{
+"name":"Icon/Loading (White) "
 },
 "5781ECE8-1713-4BB6-B70D-1A012AB51BB0":{
 "name":"Input/Right With Right Icon"
@@ -1368,6 +1380,9 @@
 },
 "00909FF6-7EA2-4B88-A4BE-09194C9B14FE":{
 "name":"Button/Default/Small/With Right Icon"
+},
+"5346A3CF-A16B-4EBF-B648-9C8625D9D615":{
+"name":"Icon/Cross (Error)"
 },
 "8CF1CE5F-E1F8-4F4F-B696-6BDE5052C865":{
 "name":"Logo/White"
@@ -1401,6 +1416,12 @@
 },
 "5815D42B-C163-48DC-ABE4-E63606A6ADB3":{
 "name":"Dropdown/Item/Top Search"
+},
+"48A97FF8-5E90-44AA-800A-E0FADCC58597":{
+"name":"Icon/Info"
+},
+"904DCD68-6FDD-4FFA-8B25-0C86E8CA30AC":{
+"name":"Icon/Bars"
 },
 "BA5D640A-B37B-42EB-A528-263D5ED08979":{
 "name":"Button/Inverted/Medium/Default"
@@ -1441,6 +1462,9 @@
 "84851281-552A-4D10-9737-B14EB13B4C5D":{
 "name":"Button/Primary/Large/Button + Label + Double Icon + Label"
 },
+"1F6A3088-A49E-4A0E-95C4-F3DDF90CCE96":{
+"name":"Icon/Bars Copy"
+},
 "D136B7EA-753B-4BA2-A583-07CEA478CEDF":{
 "name":"Button/Inverted/Medium/Double Icon"
 },
@@ -1458,6 +1482,9 @@
 },
 "92D7C131-123B-42E5-BCA4-DB84872AF4F0":{
 "name":"Button/Default/Medium/Top with Icon"
+},
+"6EBB62E5-5EA2-499D-9C7B-1E2F54132B01":{
+"name":"Icon/Loading (Grey)"
 },
 "7CAD071C-D69D-4138-A263-EE83C75562CA":{
 "name":"Checkbox/Inactive"
@@ -1486,6 +1513,9 @@
 "73DA4F5C-28C7-474E-9548-810635DA0B9D":{
 "name":"Button/Primary/Large/Button + Label + Right Icon"
 },
+"08FB051B-EB12-4010-8B27-BA8F9881C116":{
+"name":"Icon/Check Circle"
+},
 "A7D445F4-08C9-4429-8138-6C459CA573C4":{
 "name":"Breadcrumb/Number Circles/Inactive with Number"
 },
@@ -1510,6 +1540,9 @@
 "2C4F48DE-043B-493D-9340-1D5AA5CC1F8B":{
 "name":"Button/Default/Medium/With Right Icon"
 },
+"B15CB8A3-99E8-4287-9FD9-37CBF4C8E78B":{
+"name":"Icon/Remove"
+},
 "7D863425-5119-44B8-8FC4-434DCA933B7C":{
 "name":"Button/Primary/Medium/Double Icon"
 },
@@ -1524,6 +1557,9 @@
 },
 "5E679C91-8BF7-4C55-A689-93FFFFEC012B":{
 "name":"Button/Primary/Small/With Right Icon"
+},
+"98C6B045-7526-4B78-9ABD-3C696C667961":{
+"name":"Icon/Notifications"
 },
 "3C96A209-6084-47CC-B517-4EC379B60C99":{
 "name":"Pagination/Dots"
@@ -1540,6 +1576,9 @@
 "BC2E2A8B-D853-4113-8586-00E13284E528":{
 "name":"Button/Default/Medium/Button + Label + Image + Right Icon"
 },
+"07F5D188-E8E4-4257-A6FA-5065670E33C4":{
+"name":"Icon/Indetermine (for Checkbox)"
+},
 "C02712E2-FE37-451E-BC1C-CF336544B38D":{
 "name":"Button/Default/Medium/Conditional/Dark Text"
 },
@@ -1555,8 +1594,14 @@
 "9D41D175-6983-44AB-BAD3-79101AD703D8":{
 "name":"Button/Basic/Medium/Default White"
 },
+"AB8F82F7-B887-4545-9104-50DAD8248CCC":{
+"name":"Icon/Sketch"
+},
 "CAAF1ADC-1A0B-48A4-93D1-389098352179":{
 "name":"Tooltip/Simple"
+},
+"8238DB54-92DF-4F22-9A95-A4CE8D37DECA":{
+"name":"Icon/Pin"
 },
 "A243A948-D217-414D-A14E-209794826861":{
 "name":"Button/Inverted/Small/With Left Icon"
@@ -1600,8 +1645,14 @@
 "A22E1FF7-7EB1-42EA-87CF-BB6524AACC44":{
 "name":"Breadcrumb/Simple/Active"
 },
+"D8ACCA1B-0948-4A5A-9950-C50C660FD4ED":{
+"name":"Icon/Key"
+},
 "21086122-CA0B-4043-B83B-79D9B4A081D4":{
 "name":"Input/Numeric"
+},
+"BFB4157B-2D89-4D71-9B9B-A9ABB9744925":{
+"name":"Icon/Arrow Right"
 },
 "19A6CE6C-C56E-4542-BF65-B6C2E78E31D1":{
 "name":"Button/Primary/Medium/Button + Label + Image + Right Icon"
@@ -1620,6 +1671,9 @@
 },
 "DB2DB0DC-484C-449F-8454-A892C7A3B093":{
 "name":"Button/Default/Medium/Top with Text"
+},
+"7C8BA83E-643C-4EB3-9D69-7DF828F190F3":{
+"name":"Icon/Circle (for Toggle)"
 },
 "E969539B-017A-4751-A87E-A82FF092E60D":{
 "name":"Button/Default/Medium/Double Icon"
@@ -1641,6 +1695,12 @@
 },
 "998A8C80-01AD-4FCF-A477-4216F3AC378F":{
 "name":"Button/Basic/Medium/Left with Text + Icon Arrow"
+},
+"29D26F18-60A9-4D91-B88E-E62EF556318E":{
+"name":"Icon/Dot (for Radio)"
+},
+"B4B25746-D04C-489A-A0FC-0C81FFBDF5FF":{
+"name":"Icon/Arrow (Dropdown)"
 },
 "D1CBFCF4-AA55-40A4-BA80-42411C3CF7D8":{
 "name":"Tab/Inactive"
@@ -1696,6 +1756,9 @@
 "E9BC9B29-4A84-4984-A4E8-C9049ED784D2":{
 "name":"Button/Inverted/Large/Icon Only"
 },
+"3AFCB036-C164-4487-A253-AF10D4D0E926":{
+"name":"Icon/Arrow Left"
+},
 "9665A3D8-8893-4913-B0BE-F0291768AF60":{
 "name":"Button/Primary/Medium/Left with Text + Icon"
 },
@@ -1705,11 +1768,17 @@
 "7FDC8290-4A37-4829-BAA1-60FEE7D6A0F9":{
 "name":"Checkbox/Inactive + Label"
 },
+"D82C79A6-005A-4D47-BE86-F973CFBC25B7":{
+"name":"Icon/Message"
+},
 "93FAFF7D-18F7-4405-B485-0EE914831FFD":{
 "name":"Button/Basic/Medium/Button + Label + Right Icon"
 },
 "FA10673F-8F2C-49F2-960B-56B19A46C8E6":{
 "name":"Button/Inverted/Large/With Right Icon"
+},
+"1E5E7CF8-6132-4C41-92E2-0DD8D954AB28":{
+"name":"Icon/Cross Circle"
 },
 "848C0C2D-99F8-49A0-89EC-5E562C5C94B5":{
 "name":"Tag/Default"
@@ -1749,6 +1818,9 @@
 },
 "5968F938-C9B1-4E8C-BDAA-170BED8E7B4A":{
 "name":"Button/Default/Medium/Bottom with Icon"
+},
+"B2054A9B-F01D-4E4F-AF7F-10F2873132FB":{
+"name":"Icon/Search"
 },
 "EC7D4142-26A0-4B41-B9F0-00116EA57AFF":{
 "name":"Button/Basic/Medium/With Right Icon"
@@ -1805,17 +1877,17 @@
 "autosaved":0,
 "variant":"NONAPPSTORE",
 "created":{
-"commit":"6896e2bfdb0a2a03f745e4054a8c5fc58565f9f1",
-"appVersion":"63.1",
-"build":92452,
+"commit":"81eff2f2d8beb0088d444fdc433b9f6e1bf021f0",
+"appVersion":"62",
+"build":91390,
 "app":"com.bohemiancoding.sketch3",
 "compatibilityVersion":99,
 "version":123,
 "variant":"NONAPPSTORE"
 },
 "saveHistory":[
-"NONAPPSTORE.92452"
+"NONAPPSTORE.91390"
 ],
-"appVersion":"63.1",
-"build":92452
+"appVersion":"62",
+"build":91390
 }
