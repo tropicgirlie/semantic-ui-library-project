@@ -3174,11 +3174,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"name":"Desktop HD",
-"offersLandscapeVariant":0,
-"width":1440,
 "height":1024,
-"allowResizedMatching":0
+"offersLandscapeVariant":0,
+"name":"Desktop HD",
+"allowResizedMatching":0,
+"width":1440
 },
 "resizesContent":false,
 "backgroundColor":{
@@ -6767,11 +6767,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"name":"Desktop HD",
-"offersLandscapeVariant":0,
-"width":1440,
 "height":1024,
-"allowResizedMatching":0
+"offersLandscapeVariant":0,
+"name":"Desktop HD",
+"allowResizedMatching":0,
+"width":1440
 },
 "resizesContent":false,
 "backgroundColor":{
@@ -13799,11 +13799,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"name":"Desktop HD",
-"offersLandscapeVariant":0,
-"width":1440,
 "height":1024,
-"allowResizedMatching":0
+"offersLandscapeVariant":0,
+"name":"Desktop HD",
+"allowResizedMatching":0,
+"width":1440
 },
 "resizesContent":false,
 "backgroundColor":{
@@ -27717,11 +27717,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"name":"Desktop HD",
-"offersLandscapeVariant":0,
-"width":1440,
 "height":1024,
-"allowResizedMatching":0
+"offersLandscapeVariant":0,
+"name":"Desktop HD",
+"allowResizedMatching":0,
+"width":1440
 },
 "resizesContent":false,
 "backgroundColor":{
@@ -31410,11 +31410,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"name":"Desktop HD",
-"offersLandscapeVariant":0,
-"width":1440,
 "height":1024,
-"allowResizedMatching":0
+"offersLandscapeVariant":0,
+"name":"Desktop HD",
+"allowResizedMatching":0,
+"width":1440
 },
 "resizesContent":false,
 "backgroundColor":{
@@ -37323,11 +37323,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"name":"Desktop HD",
-"offersLandscapeVariant":0,
-"width":1440,
 "height":1024,
-"allowResizedMatching":0
+"offersLandscapeVariant":0,
+"name":"Desktop HD",
+"allowResizedMatching":0,
+"width":1440
 },
 "resizesContent":false,
 "backgroundColor":{
@@ -40196,11 +40196,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"name":"Desktop HD",
-"offersLandscapeVariant":0,
-"width":1440,
 "height":1024,
-"allowResizedMatching":0
+"offersLandscapeVariant":0,
+"name":"Desktop HD",
+"allowResizedMatching":0,
+"width":1440
 },
 "resizesContent":false,
 "backgroundColor":{
@@ -45258,11 +45258,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"name":"Desktop HD",
-"offersLandscapeVariant":0,
-"width":1440,
 "height":1024,
-"allowResizedMatching":0
+"offersLandscapeVariant":0,
+"name":"Desktop HD",
+"allowResizedMatching":0,
+"width":1440
 },
 "resizesContent":false,
 "backgroundColor":{
@@ -47771,11 +47771,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"name":"Desktop HD",
-"offersLandscapeVariant":0,
-"width":1440,
 "height":1024,
-"allowResizedMatching":0
+"offersLandscapeVariant":0,
+"name":"Desktop HD",
+"allowResizedMatching":0,
+"width":1440
 },
 "resizesContent":false,
 "backgroundColor":{
@@ -51438,11 +51438,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"name":"Desktop HD",
-"offersLandscapeVariant":0,
-"width":1440,
 "height":1024,
-"allowResizedMatching":0
+"offersLandscapeVariant":0,
+"name":"Desktop HD",
+"allowResizedMatching":0,
+"width":1440
 },
 "resizesContent":false,
 "backgroundColor":{
@@ -54560,11 +54560,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"name":"Desktop HD",
-"offersLandscapeVariant":0,
-"width":1440,
 "height":1024,
-"allowResizedMatching":0
+"offersLandscapeVariant":0,
+"name":"Desktop HD",
+"allowResizedMatching":0,
+"width":1440
 },
 "resizesContent":false,
 "backgroundColor":{
@@ -58092,11 +58092,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"name":"Desktop HD",
-"offersLandscapeVariant":0,
-"width":1440,
 "height":1024,
-"allowResizedMatching":0
+"offersLandscapeVariant":0,
+"name":"Desktop HD",
+"allowResizedMatching":0,
+"width":1440
 },
 "resizesContent":false,
 "backgroundColor":{
@@ -65124,11 +65124,11 @@
 "includeInCloudUpload":true,
 "isFlowHome":false,
 "presetDictionary":{
-"name":"Desktop HD",
-"offersLandscapeVariant":0,
-"width":1440,
 "height":1024,
-"allowResizedMatching":0
+"offersLandscapeVariant":0,
+"name":"Desktop HD",
+"allowResizedMatching":0,
+"width":1440
 },
 "resizesContent":false,
 "backgroundColor":{
