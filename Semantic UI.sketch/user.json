@@ -60,8 +60,8 @@
 "zoomValue":0.25
 },
 "1FBC0F60-4812-4754-AB80-4ED9C64F3CE9":{
-"scrollOrigin":"{1201, -4041}",
-"zoomValue":2
+"scrollOrigin":"{1088, -706}",
+"zoomValue":1
 },
 "D8762BCD-510E-4257-BE50-4BABA3060133":{
 "scrollOrigin":"{228, 283}",
@@ -84,7 +84,7 @@
 "zoomValue":1
 },
 "D9448441-5F6C-4565-A33A-16B7C2B95BDA":{
-"scrollOrigin":"{341, 1044}",
+"scrollOrigin":"{342, 1044}",
 "zoomValue":0.5
 },
 "8BA50435-6FC9-468C-9BF4-22BC747820B8":{
@@ -106,27 +106,26 @@
 "document":{
 "cloudShare":null,
 "expandedLayerStylePathsInSidebar":[],
-"pageListHeight":128,
+"pageListHeight":241,
 "pageListCollapsed":0,
 "libraryListCollapsed":0,
 "expandedSymbolPathsInSidebar":[
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Tooltip",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Logo",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Pagination",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Toggle",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Calendar",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Input",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Progress Bar",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Checkbox",
 "/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Breadcrumb",
 "/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Dropdown",
-"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Pagination",
 "/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Tag",
-"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Checkbox",
-"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Calendar",
-"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Notification",
-"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Progress Bar",
 "/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/UI",
-"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Input",
-"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Label",
 "/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Tab",
-"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Logo",
-"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Toggle",
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Notification",
 "/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Radio Button",
-"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Button",
-"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Tooltip"
+"/245B3DA4-F1B9-4DBB-9075-3CD34BDE1FCD/symbols/Label"
 ],
 "expandedSymbolPathsInPopover":[],
 "expandedTextStylePathsInSidebar":[]
@@ -140,7 +139,7 @@
 "zoomValue":1
 },
 "074EDD44-2D9E-485B-9B5D-55AEE550AF5C":{
-"scrollOrigin":"{-354, 1197}",
+"scrollOrigin":"{-350, 1197}",
 "zoomValue":0.5
 },
 "9F965105-C67B-405C-80D8-B4E84682425F":{
