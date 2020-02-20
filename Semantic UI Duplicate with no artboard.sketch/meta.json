@@ -1,0 +1,1268 @@
+{
+"commit":"6896e2bfdb0a2a03f745e4054a8c5fc58565f9f1",
+"pagesAndArtboards":{
+"074EDD44-2D9E-485B-9B5D-55AEE550AF5C":{
+"name":"Styleguide 3 - Cards",
+"artboards":{
+"F01F27F6-0978-4633-8284-C459CE95BD11":{
+"name":"06 - Buttons"
+},
+"23C307D5-CF1E-4488-B633-CCE296C8C1E6":{
+"name":"09 - Check & Radios"
+},
+"7E19BA8B-71A2-4AF4-9B9D-7B558C1BA885":{
+"name":"10 - Others"
+},
+"8BA1F259-0D5F-4332-AED3-F2965E73C40D":{
+"name":"04 - Inputs"
+},
+"BFC6867E-2B5D-40BB-9FF6-096BDA0EA6EF":{
+"name":"07 - Selects"
+},
+"679F6572-C36D-44EF-A0F2-0FB260EBF644":{
+"name":"01 - Colours (Dark Sample)"
+},
+"8A2E193E-182B-4724-BB82-DEAF00667F72":{
+"name":"08 - Dropdowns"
+},
+"A5278BF7-E1C2-42CF-99D2-A41B13B55338":{
+"name":"03 - Typography (Dark Sample)"
+},
+"1A08E98C-C2EC-44AB-82EE-7E1334FA29A4":{
+"name":"01 - Colours"
+},
+"A0C66868-AB0C-4559-8541-E5ACB45EC97D":{
+"name":"03 - Typography"
+},
+"F4043B3B-98F3-46BB-9875-A43D07BD737C":{
+"name":"05 - Textarea"
+},
+"1938A110-89F0-4443-A7B3-C6058CF60577":{
+"name":"02 - Gradients"
+},
+"32987396-482A-43C4-8CD1-09CF1FD61A03":{
+"name":"02 - Gradients (Dark Sample)"
+}
+}
+},
+"D9448441-5F6C-4565-A33A-16B7C2B95BDA":{
+"name":"Styleguide 4 - Map",
+"artboards":{
+"26FCE3D4-7516-4188-8F27-12ED844FF09D":{
+"name":"Styleguide 4 - Map Layout"
+}
+}
+},
+"B8580ADC-0AB5-4EE8-B709-4804452364BE":{
+"name":"Examples",
+"artboards":{
+"15F95112-259E-4697-9287-929E859E277E":{
+"name":"Header 2 - IG"
+},
+"A1D13E71-7252-4BE4-9C59-E476CA05E4C1":{
+"name":"Sign Up"
+},
+"065B4870-21EC-492C-8C26-F395C6F449D9":{
+"name":"Header 2"
+},
+"C32E39F2-505C-4E8C-9C37-C52A11CE5C6B":{
+"name":"Header 1"
+}
+}
+},
+"7FCFC634-37DD-485C-9668-3598B0977F79":{
+"name":"Old Semantic Converted",
+"artboards":{
+"436C2418-37DC-4B7E-A5FC-0A9284588EC7":{
+"name":"Artboard"
+}
+}
+},
+"A8376515-2862-425D-B964-30455276EC51":{
+"name":"Styleguide 1 - Elements",
+"artboards":{
+"3955F88E-F7B6-49DC-AD7C-BE5136FDB1BC":{
+"name":"Styleguide 1 - Elements"
+}
+}
+},
+"E43FF93E-C6F5-4DAA-889B-339288F9B2B4":{
+"name":"Old Semantic Sketch File",
+"artboards":{}
+},
+"5F8E8277-94C4-4FE2-8608-0034507312CF":{
+"name":"Styleguide 2 - Long",
+"artboards":{
+"70E07687-73BA-4279-A0C7-7ED967C24CF3":{
+"name":"Styleguide 2 - Long"
+}
+}
+},
+"A69385B8-5C2C-4956-99A9-3C6426F4E92A":{
+"name":"Symbols",
+"artboards":{
+"D5E236C6-F325-4730-9D0C-40F3768DCEE6":{
+"name":"UI/Color/Flat/Yellow"
+},
+"0C41AE5F-B89C-4C29-99DC-0EBAF2DE4CA2":{
+"name":"UI/Color/Gradient/Secondary Gradient"
+},
+"335B1176-A7CB-4B08-A2A0-B8FA16208D43":{
+"name":"UI/Misc/Pointer/Left"
+},
+"A93CAF63-9A42-43C1-AEB1-CF5BC386727C":{
+"name":"Dropdown/Item/Active + Left Icon + Icon"
+},
+"2EDF8CD7-E2B6-4C27-91E2-8A81CD3580EC":{
+"name":"Button/Inverted/Medium/Double Icon"
+},
+"FA9143D5-BD81-454F-82CC-54C6189D5AF4":{
+"name":"Icon/Social/Facebook"
+},
+"1712C54B-8FA3-48D2-9AEC-35C775482FFC":{
+"name":"Icon/Message"
+},
+"97674069-1042-4365-8D87-7FEFBC39A207":{
+"name":"Button/Medium/Double Icon (Dark Typo)"
+},
+"FFF94561-31DB-463B-A305-4FF6EEA70DAD":{
+"name":"Button/Small/With Right Icon (Dark Typo)"
+},
+"6FE7AB07-F2C6-4E48-8F77-7E6C0F35B7F1":{
+"name":"UI/Input Message/Message"
+},
+"F22329B6-FE2D-4CE2-8AA4-522DA6ACFFCB":{
+"name":"Button/Default/Small/Icon Only"
+},
+"02A25678-EA7D-4693-8A49-15DAFDF3CF30":{
+"name":"Toggle/Active + Label"
+},
+"4AC13AD8-22E5-4077-A9BC-4696D16A8A99":{
+"name":"UI/Color/Flat/Prominent Colour"
+},
+"2180B66C-6BCB-4DE6-8E8B-D9ECDBF75B79":{
+"name":"Button/Inverted/Medium/Button + Label + Right Icon"
+},
+"C47430BC-8C16-44F2-9B46-A2A99518DFAE":{
+"name":"UI/Border/Rounded (100px)/Placeholder (Default)"
+},
+"82D68454-1BA8-4BB7-887C-035D2D22D2F5":{
+"name":"Button/Basic/Large/With Right Icon"
+},
+"92CCBE73-A845-4BE6-A74F-B4AA4F1C4578":{
+"name":"UI/Color/Gradient/Black"
+},
+"8CEBDCDE-0B7C-412E-B311-A568F2157740":{
+"name":"Button/Primary/Small/Icon Only"
+},
+"6A202357-8EB0-406A-8BA0-F8A890CB6B29":{
+"name":"Button/Inverted/Large/Default"
+},
+"A3FE9140-E137-40C2-B92C-49E4B2ACD4B3":{
+"name":"Icon/Calendar"
+},
+"06894BF2-5AB8-43FA-B23A-46BA58FC1DFC":{
+"name":"UI/Border/Rounded (100px)/Hover"
+},
+"DC3DF598-D12D-4BD7-A4CA-C3BC55058BE2":{
+"name":"Icon/Remove"
+},
+"A07D0C72-1F7A-4037-B3E4-ED68A740AA2C":{
+"name":"Button/Basic/Medium/Button + Label + Right Icon"
+},
+"C3A1D76F-D461-4888-9951-5FA9A7044C6A":{
+"name":"Dropdown/Item/Inactive"
+},
+"21A5928E-095A-4EA0-99FD-77893498930A":{
+"name":"Button/Large/Icon Only (Dark Typo)"
+},
+"9702B476-02B4-4E2C-9CB3-BCE4433B73B2":{
+"name":"UI/Color/Gradient/Primary Gradient"
+},
+"E432BCCF-4021-45D3-B1D5-A6402B839AA6":{
+"name":"UI/Color/Flat/Brown"
+},
+"12838468-70F2-42F7-8613-01AB627EB521":{
+"name":"UI/Container/Custom Dropdown"
+},
+"2D7A1628-9975-4D78-B376-1E0707C6CBBB":{
+"name":"Button/Default/Medium/Bottom with Icon"
+},
+"F03EC181-7FD1-4AC7-976E-853848F00C7C":{
+"name":"UI/Container/Custom (Your Setup)"
+},
+"E84E5C32-E932-4173-A232-EAB7372B3F4A":{
+"name":"UI/Container/Custom (Your Setup)/Right Only Arrow"
+},
+"ED81DE8E-A151-4907-A82A-B0BB05492D85":{
+"name":"Button/Default/Medium/Middle with Icon"
+},
+"1E29A861-AD9B-47F7-95AE-B1CEC80B3EE4":{
+"name":"Button/Primary/Large/Icon Only"
+},
+"9D1F274B-F5D0-4653-A898-6AF0DBF53649":{
+"name":"UI/Border/Rounded (100px)/1px - 10%White"
+},
+"236799BD-CF3A-4DF8-BF30-DA1429E60B85":{
+"name":"UI/Misc/Resizer (Dark)"
+},
+"F52C9694-90C3-4E71-AA81-B98DFB50AF02":{
+"name":"UI/List/Horizontal with Title"
+},
+"E78A8D64-C281-4F43-A78D-832E1840A07A":{
+"name":"Button/Default/Medium/Left with Icon"
+},
+"09F97AD3-FBE5-4F2F-8E66-F4C907321128":{
+"name":"Icon/Social/Vimeo"
+},
+"06C1EDA7-DE02-426F-ACB7-9BD0DE932338":{
+"name":"Button/Basic/Small/With Right Icon"
+},
+"4B571728-A245-49B9-BF6D-43AC7B2008FF":{
+"name":"Label/Pointing/Basic/Up"
+},
+"3C8D31E3-A3BC-496F-A1C9-74A2623A88A6":{
+"name":"Button/Basic/Medium/Button + Label + Double Icon + Label"
+},
+"AE8345B0-0F3A-4992-B352-4467966EDA4D":{
+"name":"Button/Primary/Medium/Right with Text + Icon Right"
+},
+"15B8F264-2854-4F18-B106-7C53B4B3F423":{
+"name":"UI/State/Hover"
+},
+"8C043550-1515-403B-929E-E7E04B7A807B":{
+"name":"Button/Default/Medium/Right with Icon"
+},
+"432664C3-AE7F-432F-94E5-4BB710251519":{
+"name":"Button/Primary/Small/Double Icon"
+},
+"9C5AD84E-DF97-4C12-A093-5024B52BF97C":{
+"name":"Button/Default/Medium/Left with Dark Text"
+},
+"55FE0CCB-838D-406B-961E-A589839E2422":{
+"name":"Icon/Social/Instagram"
+},
+"1AE284E5-81E4-4029-9101-DB2E22393EDB":{
+"name":"Button/Basic/Medium/With Right Icon"
+},
+"0FFF3052-AB2A-4019-8511-BE479501320E":{
+"name":"Input/Double Icon"
+},
+"BC8307C5-77CB-43AA-A53B-3195D25EA5C2":{
+"name":"Button/Small/Double Icon (Dark Typo)"
+},
+"C2E3CDED-858F-456D-A4CF-93FBE02688F5":{
+"name":"Button/Basic/Small/Double Icon"
+},
+"AB91E9B0-FE84-488B-B9DE-FBC816DF9D4A":{
+"name":"Tooltip/Simple"
+},
+"695EB235-C24C-49A7-BC34-DF240A5C5A85":{
+"name":"UI/Color/Gradient/Blue"
+},
+"A5E83540-BB4D-4B77-A21C-26CB25E4D5F4":{
+"name":"Radio Button/Active + Label"
+},
+"000F4493-384A-4AA6-8E50-056FAC1CA05A":{
+"name":"Button/Inverted/Small/Double Icon"
+},
+"F90C2BFE-37FE-43C7-9584-89E90DC99CD3":{
+"name":"Breadcrumb/Simple/Inactive"
+},
+"3BDF3E44-4B52-464D-AEBE-9B3316E12FEC":{
+"name":"UI/Border/Rounded (100px)/2px - 5%White"
+},
+"9A797E6A-216D-44C9-BA6E-CAA92C7A2CC7":{
+"name":"Tag/Removable"
+},
+"0EE4AA23-2DE5-4B12-A8F7-A3ED212B4D38":{
+"name":"Button/Primary/Large/With Right Icon"
+},
+"1BEA5154-1380-4670-94C5-2B3326655C8E":{
+"name":"Notification/Success"
+},
+"F8ABAFC9-C7AA-45FA-A26A-4DEACFA6792F":{
+"name":"Button/Inverted/Large/Double Icon"
+},
+"917AF523-5B24-4834-8E5D-0AD2295DC714":{
+"name":"UI/Card/Button"
+},
+"8BBD911D-4A54-48FB-AA50-7F70A331554A":{
+"name":"Button/Primary/Medium/Left with White Text"
+},
+"08DF0F47-9E42-4AC1-A0ED-975F0651181C":{
+"name":"Button/Inverted/Medium/Button + Label + Double Icon + Label"
+},
+"F1D99D50-D1A5-4D41-99EB-B3BACD4027E6":{
+"name":"UI/Container/Rounded (4px)"
+},
+"2A6A9608-551C-417C-BE0A-F3C2B5CAE9D0":{
+"name":"Button/Basic/Large/Button + Label + Double Icon + Label"
+},
+"BA3A1E75-F78F-4960-AE43-C5D2E8D5A319":{
+"name":"UI/Container/Custom (Your Setup)/Left Only Outline"
+},
+"AC355520-D8D2-41FF-A0CD-FB5AA36E3ADF":{
+"name":"UI/Container/Custom (Your Setup)/Left Only"
+},
+"7F66DFC1-EBE7-4EAA-9891-49E56F57BC3B":{
+"name":"Button/Inverted/Small/Icon Only"
+},
+"8C838700-B7F0-4441-A753-845613C48637":{
+"name":"Button/Basic/Medium/Middle with Dark Text and Icon Right Align"
+},
+"86ADA14B-70D8-45DD-ABE8-21CDFD06821B":{
+"name":"Toggle/Inactive + Label"
+},
+"5CC4D4EC-662D-4E1D-8240-A83E3B83F9C4":{
+"name":"UI/Image/Circle"
+},
+"334ECE8D-D93D-4C5F-B619-AA4AB8A6965B":{
+"name":"Notification/Warning"
+},
+"7D8A869F-CF7A-4E1C-8E00-D63CED415BF3":{
+"name":"UI/Container/Custom (Your Setup)/Right Only"
+},
+"E3F0966C-A99C-427F-A378-6B44B83D4A77":{
+"name":"Button/Primary/Medium/Middle with Text"
+},
+"BDBFD65A-6B9A-405E-B8F1-FADC53AA9F71":{
+"name":"Button/Default/Medium/Button + Label + Image + Right Icon"
+},
+"6009F771-37AA-465F-BC92-7133C3444695":{
+"name":"UI/Card/Image"
+},
+"945F50C3-33BE-46CB-BB79-2D9397FCC945":{
+"name":"Label/Pointing/Default/Left"
+},
+"B470FC0C-42DF-45A7-8375-C04074DE25D5":{
+"name":"UI/Container/Custom (Your Setup)/Top Only"
+},
+"367D53DC-B9A1-40F9-AAD0-BAF488D88C99":{
+"name":"Radio Button/Active"
+},
+"A0BD816F-97AB-4C79-98DE-3438DA2FA25A":{
+"name":"UI/Input Message/Info"
+},
+"A7478F7F-AC83-4945-9BA6-7858D07BD01F":{
+"name":"UI/Misc/Pagination/Active"
+},
+"7AAFE574-2CAA-4F79-B857-9FDB227A53A8":{
+"name":"Button/Basic/Medium/Icon Only"
+},
+"506BCBB7-66D2-48CA-81D8-7E2E0C5F00CD":{
+"name":"Button/Primary/Medium/Button + Label + Right Icon"
+},
+"8110AB0A-BBB1-4F33-BFF6-B533845E22F9":{
+"name":"Button/Basic/Medium/Left with Text + Icon"
+},
+"E74B6085-2586-489E-8D65-1DCDD5DF4CE9":{
+"name":"Button/Inverted/Large/With Left Icon"
+},
+"69D23342-A855-48F0-A2A3-83C868A7CF7A":{
+"name":"Icon/Info"
+},
+"A59ECF1C-901D-46B2-BC25-8C9C08E638DD":{
+"name":"Toggle/Inactive"
+},
+"186B680B-E5A6-4CE9-8166-6A54B350561D":{
+"name":"UI/Color/Flat/Teal"
+},
+"A2EC286A-5B1A-425B-BEAF-81719851ECA7":{
+"name":"Button/Default/Medium/Bottom with Text"
+},
+"9CDEFF7A-417A-4ABF-830D-29A6B11F3022":{
+"name":"Icon/Arrow Right"
+},
+"43916274-54AA-4679-A819-CF62D4B01C9D":{
+"name":"Button/Basic/Medium/Double Icon Copy 3"
+},
+"F32AD4A0-E04B-40B9-9C34-F5552AC6C605":{
+"name":"Button/Basic/Medium/Labeled/Regular/Gray/Right With Icon"
+},
+"78F4D1EE-9A23-467B-8FC1-C89604C38894":{
+"name":"Button/Inverted/Large/Icon Only"
+},
+"2B78F771-9F47-45CB-AA9B-BA8627A68723":{
+"name":"Button/Small/Icon Only (Dark Typo)"
+},
+"2AF3427C-3949-46C9-8EF8-008D78800D55":{
+"name":"Button/Primary/Medium/With Left Icon"
+},
+"408F85FB-1403-4CC4-B28A-B3706031749A":{
+"name":"UI/Border/Rounded (4px)/1px - 10%Black"
+},
+"0CE07001-3C8A-42EC-96D3-7E3DCC993542":{
+"name":"Icon/Social/Twitter"
+},
+"38B5BC58-609B-4A52-BF0A-6979A7CC4309":{
+"name":"Button/Basic/Medium/With Left Icon White Bold"
+},
+"CE677C02-FCFB-492E-8206-9C7EC03DDE91":{
+"name":"Breadcrumb/Simple/Active"
+},
+"408A1F74-CD0D-4999-AE7B-937C7533F74D":{
+"name":"Label/Image/Right Aligned"
+},
+"4A923C8D-691D-4C98-98BC-7148C41B9920":{
+"name":"Tag/Default"
+},
+"747F95F6-EB25-46AE-BB18-195C8BD97537":{
+"name":"Button/Inverted/Small/With Right Icon"
+},
+"63FA12CA-E9C0-4DAF-BEDF-88D027F3C25B":{
+"name":"Label/Image/Left Aligned"
+},
+"2C21A28A-3810-4CF9-A1BD-6ACCF9D05856":{
+"name":"Button/Small/Default (Dark Typo)"
+},
+"BC57DCEE-4067-4DDA-A657-702D55895582":{
+"name":"Button/Primary/Large/Button + Label + Double Icon + Label"
+},
+"44DE3EE0-77D4-495A-94ED-3C1695A9ABAB":{
+"name":"Calendar/Element Type/Inactive Number"
+},
+"A799AD0C-F7BA-4601-B092-03CC6E24E7E3":{
+"name":"Radio Button/Inactive + Label"
+},
+"A63C94E4-7C66-43EF-9F36-98B3AA72EA14":{
+"name":"UI/Color/Flat/Grey 50%"
+},
+"E600B45D-196D-47CB-BCB3-8D17F1966BB7":{
+"name":"Checkbox/Inactive"
+},
+"E375B3B6-B579-4EB3-9067-4CC0E7C22125":{
+"name":"Icon/Arrow Left"
+},
+"2A0BA6E5-1F57-4B3E-ADF3-B0F013DA7612":{
+"name":"UI/Container/Custom (Your Setup)/Right Only Outline"
+},
+"1A74A0AD-C7DB-4228-BE9F-74D4F504F47A":{
+"name":"UI/State/Error (For Input)"
+},
+"825A139A-352B-4C31-99EE-82B7B5FFE6D4":{
+"name":"Button/Default/Medium/Middle with Dark Text"
+},
+"26E13E69-792F-415E-A471-9EE1CE837543":{
+"name":"UI/Color/Flat/Primary"
+},
+"1AE4B3EA-BBC7-444F-B73F-F497160C1EC6":{
+"name":"UI/Image/Rounded (4px)"
+},
+"910236BA-FB1F-444B-A9A9-30851A0C9234":{
+"name":"Breadcrumb/Number Circles/Inactive + Icon"
+},
+"1CBBFD2A-E61A-494F-847F-4588AB82CC91":{
+"name":"UI/Border/Rounded (4px)/Error"
+},
+"63F6A135-FBAA-4500-B759-4F5B60C8BA94":{
+"name":"UI/Card/Metadata"
+},
+"A43018C0-4D74-4952-A8A6-B3AA2EFD92AD":{
+"name":"Button/Basic/Large/Button + Label + Right Icon"
+},
+"DE70621F-4118-45EF-8EE1-55AB5661B6A9":{
+"name":"UI/Card/Image Header"
+},
+"F7979D93-ECF1-4937-997B-074AC84EA2C3":{
+"name":"Icon/Social/G+"
+},
+"8E92018C-693E-42AC-B540-E28EDD290ACB":{
+"name":"Button/Medium/Button + Label + Image + Right Icon (Dark Typo)"
+},
+"ABBFEC47-8891-4933-A880-3643C266406F":{
+"name":"Button/Primary/Large/With Left Icon"
+},
+"B2AC16FE-E629-4764-9527-A1472B0B87D3":{
+"name":"Progress Bar/Base + Label & Message"
+},
+"256F26A9-AFAF-4501-AF7C-F0C4068A2A76":{
+"name":"Icon/Dot (for Radio)"
+},
+"DA239808-8D4D-4A1B-B25C-9E160A898E9B":{
+"name":"UI/Color/Flat/Blue"
+},
+"AF13CADA-6048-4542-8D5D-5856E43FE5CF":{
+"name":"Input/With Left Icon"
+},
+"DBCDE1B4-181F-4A56-BAA7-7298B2C9638E":{
+"name":"Button/Inverted/Medium/Icon Only"
+},
+"476CA7CA-F089-425C-A44B-03915F22323A":{
+"name":"Button/Basic/Medium/Labeled/Regular/Gray/Left With Icon Copy"
+},
+"E30E38F9-6149-43C9-96B1-678444ABC648":{
+"name":"Button/Primary/Large/Default"
+},
+"4DFF1DEE-8C86-4378-A027-9999AA8DFA77":{
+"name":"UI/Border/Sharp/1px - 10%Black"
+},
+"602CF43A-9AE2-415F-9DC5-86FD39A449B0":{
+"name":"UI/Color/Gradient/Red"
+},
+"329A31E4-19F6-4EEB-8C7E-5F55BEE58C4A":{
+"name":"UI/Image/Default Rounded Top"
+},
+"F7077CF3-44E7-4E3E-B904-568C42D8F594":{
+"name":"Button/Basic/Large/Icon Only"
+},
+"148F13D2-6A40-486B-9683-2ADC15ABF578":{
+"name":"UI/Image/Avatar/Joe"
+},
+"B32A520E-A4BD-4489-8E1C-1D42A636B85D":{
+"name":"UI/Container/Custom (Your Setup)/Left Only Arrow"
+},
+"DBD5FF09-1D03-4A7C-AF02-F5D59CFF16AB":{
+"name":"UI/Dropdown/State/Active"
+},
+"1E390977-6CC4-4C10-A1AA-54326153A5A0":{
+"name":"Button/Basic/Large/Default"
+},
+"191AE44B-5956-4D92-8C0E-DF111BCDBD79":{
+"name":"Label/Light Color"
+},
+"CF3CE203-4D9A-4B2D-99B9-25D7CA47C0AD":{
+"name":"Button/Inverted/Medium/Button + Label + Image + Right Icon"
+},
+"25E434B8-021E-463A-96A6-C489E602EF04":{
+"name":"Dropdown/Item/Active + Image + Icon"
+},
+"FDF63CAD-68F7-4727-9C49-4DA83B4D0555":{
+"name":"Button/Inverted/Large/With Right Icon"
+},
+"6ADEFC6B-C4B3-4792-8FBC-02DFAEC2C407":{
+"name":"Icon/Loading (White)"
+},
+"4E1D7720-9D5A-4B80-BB0A-1E09CB823E06":{
+"name":"Button/Medium/Button + Label + Double Icon + Label (Dark Typo)"
+},
+"2041C782-412F-4EFB-A66D-E402E2A933E4":{
+"name":"UI/Color/Flat/White (Default)"
+},
+"B190A571-9CD8-45AC-9156-71AB890E4CE5":{
+"name":"UI/Border/Sharp/1px - 5%White"
+},
+"06ECA875-6F77-4B4A-80A8-4ACE9216056F":{
+"name":"UI/Card/Group"
+},
+"44B6E295-B726-489D-B635-3E899427B2B0":{
+"name":"UI/Color/Flat/Red"
+},
+"E0EC009C-14E9-4511-956F-B78D52E0390F":{
+"name":"Button/Primary/Small/Default"
+},
+"80D4D692-6DC5-490D-A426-FF9E1FB2B51F":{
+"name":"UI/Border/Custom (Your Setup)/Hover"
+},
+"3B8453B2-391A-4CDF-A47E-BDA6204D9C53":{
+"name":"Icon/Search"
+},
+"237FF340-CAAF-4836-8E2B-D403D4A63535":{
+"name":"UI/Image/Default"
+},
+"82FBB0A8-8D00-4AAF-A078-1336889C15CC":{
+"name":"UI/Color/Flat/Dark 2"
+},
+"BB6A0775-FEAA-4422-A915-2ECF56986699":{
+"name":"Icon/Arrow (Dropdown)"
+},
+"EC0481E4-1B21-4299-85C2-C15F662888E2":{
+"name":"UI/Color/Flat/Green"
+},
+"9A09B04A-33AC-454E-8BFD-727081D4608B":{
+"name":"UI/Border/Custom (Your Setup)/1px - 10%White"
+},
+"E1292C9D-076B-496D-B7A7-505EF844DB00":{
+"name":"Label/Image/Left with Icon"
+},
+"6E0980C5-5934-4168-B543-5A939E8631C5":{
+"name":"Button/Inverted/Large/Button + Label + Double Icon + Label"
+},
+"DEDD3212-EC92-495B-B1F5-D217D5C0D96E":{
+"name":"Icon/Key"
+},
+"AE43EE63-6E94-4F26-8403-2ADAC9F871D6":{
+"name":"UI/Color/Flat/Orange"
+},
+"F0517340-8B33-41FE-8767-F981E681B859":{
+"name":"Button/Basic/Medium/Button + Label + Image + Right Icon"
+},
+"F1056866-6256-475A-A7F4-7273E832E980":{
+"name":"Calendar/Numbers Row/One Row"
+},
+"DA7BDE8B-963D-432D-859E-3E1C2612686B":{
+"name":"Input/With Right Icon"
+},
+"D6270C99-5C71-4C65-BFEB-51EDBEDDD91C":{
+"name":"UI/Border/Custom (Your Setup)/1px - 5%White"
+},
+"795A18BD-6950-42A1-9FA8-8FBAAA0F58E3":{
+"name":"UI/Border/Rounded (4px)/2px - 10%Black"
+},
+"911293E0-A043-4510-867C-9DBECB94B548":{
+"name":"UI/Color/Gradient/Violet"
+},
+"6BA82A62-6A80-486C-94DC-EB3C38C35AC8":{
+"name":"Icon/Social/Pinterest"
+},
+"4F04DAC6-11E0-4A45-B231-FECDF567DC33":{
+"name":"Button/Basic/Medium/Labeled/Regular/Gray/Right With Icon Only"
+},
+"7E68BFCB-1068-4847-9A52-AA2BC1609B0E":{
+"name":"Button/Basic/Medium/Default White Bold"
+},
+"3E6CB0D7-27C4-4307-8339-466832503414":{
+"name":"Button/Basic/Medium/Labeled/Regular/Inverted/Right With Icon"
+},
+"91C8EBFC-33D2-4BEC-932F-D2581CAEC771":{
+"name":"Button/Primary/Small/With Right Icon"
+},
+"5A394C83-47DE-4C99-AB3F-2C111ABE60AB":{
+"name":"Icon/Cross (Error)"
+},
+"450FFBD7-7C5F-4A93-8B17-C8771C3522C5":{
+"name":"UI/Border/Rounded (4px)/Hover"
+},
+"E85FF293-8F59-4F5D-B9CD-BBD0859B4767":{
+"name":"Button/Inverted/Medium/With Right Icon"
+},
+"76CE6D79-C472-428D-B587-633439FA09DC":{
+"name":"Input/Square"
+},
+"6335E9F3-94B8-4521-B375-CD684D9B84F5":{
+"name":"UI/Border/Rounded (100px)/Error"
+},
+"6829D0C8-231E-436E-AC96-25656A5A05CF":{
+"name":"Logo/Dark"
+},
+"FAC3B6A0-921A-4D4C-A3D7-B04BCCD6D383":{
+"name":"Button/Primary/Large/Button + Label + Right Icon"
+},
+"A9B131BA-30F4-443D-B04C-B3DE0D83F7D7":{
+"name":"Icon/Check Small (for Checkbox)"
+},
+"D9AC17FA-8260-4B6F-9692-1E193C639788":{
+"name":"Button/Basic/Small/Icon Only"
+},
+"F69BA74B-D710-4228-BE3B-6910C8F7D6E3":{
+"name":"Button/Primary/Medium/Icon Only"
+},
+"73142DCA-0142-4E97-BD7E-7BCA4447F903":{
+"name":"Button/Default/Medium/Right with Dark Text"
+},
+"55255B5F-A32F-4379-9937-A3C69C0154D2":{
+"name":"Button/Default/Medium/Top with Text"
+},
+"ADCA39F7-A93D-4797-BBFB-7D6D166BA9E9":{
+"name":"Radio Button/Inactive"
+},
+"77F2F1DE-6466-4772-81E6-DA06ABE48E7A":{
+"name":"Notification/Status"
+},
+"7C13C817-FAFA-4E0A-BDC6-A2BEC13FD673":{
+"name":"Button/Inverted/Small/With Left Icon"
+},
+"0327203D-0C47-4D78-A59E-31897D3CB890":{
+"name":"Icon/Bars"
+},
+"63796D40-2578-416E-BD9D-B560FF2441BF":{
+"name":"Input/Default"
+},
+"5B9D0371-8797-4A91-AB56-637FD5CC69C3":{
+"name":"Toggle/Active"
+},
+"D53C9055-8B4D-4576-B2C7-A3E568609042":{
+"name":"UI/Border/Rounded (100px)/Success"
+},
+"F1A2BA80-6EF5-4663-93CB-BECB651DE15E":{
+"name":"Button/Primary/Medium/With Right Icon"
+},
+"EF01D69C-0AD5-49F0-AA7E-767E075CC005":{
+"name":"UI/Color/Flat/Icon Color"
+},
+"581B33C0-9E71-4C34-A7CC-DD5438D18163":{
+"name":"Button/Basic/Medium/Default"
+},
+"CB9F486A-13E2-4911-8D2A-397EDA2729B0":{
+"name":"Button/Default/Large/Double Icon"
+},
+"14F7F551-1665-49EF-AF8F-55F945DC3009":{
+"name":"Dropdown/Item/Inactive + Left Icon"
+},
+"12AF5C46-CE91-4505-B3E2-6B199B0BD2BE":{
+"name":"UI/Border/Custom (Your Setup)/2px/Grey"
+},
+"41B4494E-98FA-4937-AFFB-DF2DC60E61CA":{
+"name":"UI/Dropdown/Container"
+},
+"9A9C2D56-3362-481D-98D4-7DF080B30110":{
+"name":"Button/Medium/With Right Icon (Dark Typo)"
+},
+"55BD921C-17C1-430F-B11C-3FAA8636A440":{
+"name":"Button/Medium/Icon Only (Dark Typo)"
+},
+"4B7D7D87-A416-443E-81AD-965A14B132E2":{
+"name":"UI/State/Disabled (For Buttons)"
+},
+"75CA5BA5-04E8-4CE6-A4B9-D00604E797FD":{
+"name":"UI/Border/Custom (Your Setup)/2px/Blue"
+},
+"048EB68B-D44E-48CB-9603-7C70F9F9F84A":{
+"name":"UI/Container/Sharp"
+},
+"0AA858EA-3923-4F72-8EE0-A5C355CB89EA":{
+"name":"Icon/Notifications"
+},
+"ED79443D-6350-46FB-9E1D-F706A8F38CA1":{
+"name":"Button/Default/Medium/Circular"
+},
+"F5596E99-A758-477B-B895-0C6B367BFF5F":{
+"name":"Icon/Social/Linkedin"
+},
+"C3A563E9-9670-4149-8108-6CBCB43AB010":{
+"name":"Button/Basic/Medium/Labeled/Pointing/Color/Right With Icon"
+},
+"498065CD-5792-4F53-A558-8ACFBEC91CE4":{
+"name":"Icon/Cross Circle"
+},
+"039C7F31-D1CD-4A62-A9D3-4D53160F8630":{
+"name":"Button/Medium/Default (Dark Typo)"
+},
+"AEA159A5-3552-4123-8A33-29E3F2475E8E":{
+"name":"UI/Border/Custom (Your Setup)/Placeholder (Default)"
+},
+"7EFF8B06-4F29-47E8-85C6-72A395188B4E":{
+"name":"UI/Border/Sharp/Error"
+},
+"BC66B09D-CACB-4AB6-AF14-48435B751504":{
+"name":"UI/Misc/Resizer"
+},
+"E46F6747-1A4F-4112-950F-BA90F4D3A726":{
+"name":"UI/Color/Flat/Light Blue"
+},
+"15303C63-2437-4E1C-8CF2-0778683C5B80":{
+"name":"Calendar/Element Type/Active Element + Icon"
+},
+"391A3AA4-0C6E-47A7-B727-5324203796E4":{
+"name":"UI/Border/Rounded (4px)/Placeholder (Default)"
+},
+"51EC9543-0142-4917-8926-9BEC127B2D9A":{
+"name":"UI/Color/Flat/Grey 75%"
+},
+"488FECDB-3765-4117-ADDC-AA84DCE82622":{
+"name":"Input/Right With Right Icon"
+},
+"7827BD32-5A30-43E3-96A3-9BCD0CF6FB9F":{
+"name":"Button/Primary/Medium/Double Icon"
+},
+"5765F97B-191D-4D86-AA6B-432AE57BAA6D":{
+"name":"UI/Border/Custom (Your Setup)/2px/White"
+},
+"E9286249-41C4-46D7-B5D6-7276EB13CEA0":{
+"name":"UI/Border/Rounded (100px)/1px - 10%Black"
+},
+"07D3D99E-1FAB-4F90-B38D-02E96D4F8C8B":{
+"name":"UI/Border/Rounded (4px)/Success"
+},
+"0206CEBE-516B-4AC1-9F1A-FB84B68DA425":{
+"name":"UI/Border/Rounded (4px)/1px - 10%White"
+},
+"A7BD566D-B01D-45DD-9CD5-51C65927B228":{
+"name":"Button/Medium/With Left Icon (Dark Typo)"
+},
+"D129CD20-F86F-4D64-93FB-11FA83DDAA91":{
+"name":"Button/Default/Large/Button + Label + Right Icon"
+},
+"2C35F4FF-F5B7-463C-993E-A6B1042FEBEA":{
+"name":"UI/List/Horizontal with Description"
+},
+"758168B0-384D-4B5A-A895-227CD5488846":{
+"name":"Button/Small/With Left Icon (Dark Typo)"
+},
+"335EBDEA-3041-41F4-882D-CC7A2E6C5DC6":{
+"name":"UI/Border/Rounded (100px)/2px - 10%Black"
+},
+"A3E7B0D5-227D-4131-BDB6-394DD9F0D6A8":{
+"name":"Button/Large/Double Icon (Dark Typo)"
+},
+"48A4C035-B3F8-4940-BA36-0B957721041C":{
+"name":"Button/Default/Large/With Left Icon"
+},
+"76D4AF0C-8A59-4D52-B5B0-2FA9A9BB03EA":{
+"name":"UI/Border/Rounded (4px)/Focus"
+},
+"154CC53A-0122-430B-AC93-89101A5D13F1":{
+"name":"Icon/Loading (Grey)"
+},
+"51F6DDF6-6B60-4728-9E33-B54A44F374EC":{
+"name":"Calendar/Days Row/Sun ->"
+},
+"DE497E17-614D-4DB6-9914-7772F6508540":{
+"name":"Button/Inverted/Medium/With Left Icon"
+},
+"DFF15FE2-94E0-470A-9355-491BAE842D0C":{
+"name":"UI/Border/Custom (Your Setup)/2px - 10%Black"
+},
+"B4C431CC-3355-4D1B-8826-EDB256A39690":{
+"name":"UI/Color/Flat/Secondary"
+},
+"4A903A8B-01BC-4D12-A51E-945215675DD0":{
+"name":"Input/Disabled"
+},
+"C3214A58-BA83-4AF8-B3CA-7943401F18AD":{
+"name":"Icon/Indetermine (for Checkbox)"
+},
+"2119995C-387A-4EFA-A64B-801B91AB1B05":{
+"name":"UI/Border/Sharp/1px - 10%White"
+},
+"8357CB2F-3B36-4E88-9DF1-01ABE1322255":{
+"name":"UI/Dropdown/Line/Bottom"
+},
+"C576F207-52EE-404F-B75E-D5A1EC5455F6":{
+"name":"Button/Default/Small/Default"
+},
+"185FA35A-7A88-44E8-A8BE-9CC580EEC04C":{
+"name":"Button/Basic/Large/Double Icon"
+},
+"47783682-7956-4F14-BAA3-EFC463E5FB15":{
+"name":"Button/Default/Medium/With Left Icon"
+},
+"1EEABE53-2A6F-450B-9B5B-F48BA37BD45D":{
+"name":"Button/Inverted/Medium/Default"
+},
+"AB6A4E19-AAB6-4082-8DAD-5E5E9FFBC443":{
+"name":"Button/Large/With Left Icon (Dark Typo)"
+},
+"DC6785FB-9519-40D7-837C-B9705C99E79E":{
+"name":"Button/Inverted/Large/Button + Label + Right Icon"
+},
+"B6A8A92B-79E5-40FA-BF33-63942421147E":{
+"name":"Button/Primary/Medium/Default"
+},
+"FEBC0839-8E05-4B36-9378-4F9BC0B6A4BB":{
+"name":"Button/Primary/Large/Double Icon"
+},
+"3719F75A-8400-47C8-BE55-6ADC645B4778":{
+"name":"UI/Border/Sharp/2px - 5%White"
+},
+"CAC8DF96-8033-4254-BF60-AA1EE2BAAC89":{
+"name":"UI/Border/Sharp/Success"
+},
+"62F12EE8-D9F4-4DDC-AD14-BBAFEF2171F7":{
+"name":"Label/Pointing/Default/Group/Right"
+},
+"49AEE0D9-1EE7-42A8-8FB5-9760F7826303":{
+"name":"UI/Color/Flat/Dark"
+},
+"3271BE8C-F253-4EBA-8D5B-EA8B406D3E66":{
+"name":"UI/Border/Custom (Your Setup)/Error"
+},
+"9F2BF53F-4CA3-44D8-B021-62F4E6FEE951":{
+"name":"UI/Dropdown/State/Active (Dark)"
+},
+"4D196B8E-DC7D-4FA2-B4EE-71B7C14CBE32":{
+"name":"Notification/Error"
+},
+"BC814279-449F-4EC8-85D0-6FFE146E82F0":{
+"name":"UI/Color/Gradient/Default"
+},
+"5BCF08B9-E283-4654-8A39-B590DE67594A":{
+"name":"UI/Misc/Pagination/Inactive"
+},
+"09405A06-6485-407D-AB74-93A4ACEF4E4D":{
+"name":"Dropdown/Little Dropdown"
+},
+"8C1DDDA5-7B80-4CDA-ACD9-5B5F3BAD3FF2":{
+"name":"Calendar/Days Row/Mon ->"
+},
+"87A0960F-8639-40D8-8C50-2A7AE955A7DB":{
+"name":"Button/Default/Large/Default"
+},
+"78CCE99A-F30C-4709-BB16-D81C5C1FDB1F":{
+"name":"Dropdown/Item/Active with Icon"
+},
+"C50403E2-868B-488C-BBBE-95A5302A570D":{
+"name":"Button/Large/Button + Label + Right Icon (Dark Typo)"
+},
+"8196DFAA-B5E6-4897-8E2D-1D104F7094A4":{
+"name":"Icon/Pin"
+},
+"76AE8D47-E4DB-4120-B739-A94528B3D6CE":{
+"name":"Button/Primary/Medium/Left with Text + Icon"
+},
+"664F9A60-09D1-4B5B-BB10-E5F71E5AB774":{
+"name":"UI/Misc/Cursor"
+},
+"0C351DA5-C42B-43DA-908B-8D05F525FB09":{
+"name":"Label/Pointing/Default/Up"
+},
+"56F9FD96-9335-446A-97E3-027C3A0C4C9F":{
+"name":"UI/Misc/Scrollbar"
+},
+"FF6087C1-654D-41EA-B250-9F3BED77CC6E":{
+"name":"UI/Color/Flat/Grey"
+},
+"84F3A643-44BE-4835-84E7-995FCE1A9861":{
+"name":"Icon/User"
+},
+"D5FA01FB-7060-4626-8CF6-BE8BDE5BABAB":{
+"name":"Button/Primary/Small/With Left Icon"
+},
+"D3DE085C-C754-4640-801C-6FA7E3A2FCA8":{
+"name":"UI/Container/Custom (Your Setup)/Bottom Only"
+},
+"EF7F3220-B92D-4C3F-9D8E-20FE1460DDD7":{
+"name":"UI/Dropdown/Container Dark"
+},
+"65E7BCF2-1307-447C-A2CC-7C662E350BFD":{
+"name":"Button/Default/Small/Double Icon"
+},
+"FD3F6889-5B95-4FB3-98FD-CFEF1E71164D":{
+"name":"Breadcrumb/Number Circles/Inactive with Number"
+},
+"D0742AF1-2DC5-4AEB-8E76-9130FCACFE15":{
+"name":"UI/State/Pressed"
+},
+"64D49858-142C-4762-BB04-59363B20D8BE":{
+"name":"Button/Basic/Medium/Default White"
+},
+"3C5D08A2-FD37-420E-8C2D-0956421B2EF1":{
+"name":"Button/Default/Medium/Conditional/Dark Text"
+},
+"D093FACA-E9D4-4062-86B8-B857EEB04974":{
+"name":"Dropdown/Item/Active"
+},
+"2C7959E6-0CCC-4434-90BE-85EE3F0CFEAF":{
+"name":"Button/Basic/Medium/Labeled/Regular/Gray/Left With Icon Only"
+},
+"2D97EAB7-E9F8-4C74-9C49-A9D6871E22E4":{
+"name":"Button/Default/Small/With Right Icon"
+},
+"0BB2D15B-B74D-4C36-B97A-CDD4CB6E193B":{
+"name":"Button/Default/Medium/Button + Label + Double Icon + Label"
+},
+"D059CEE8-1DEB-4F2A-A7C5-E3578D3EDEDA":{
+"name":"UI/Color/Gradient/Green"
+},
+"98E9E213-0278-4E54-89B1-3671A894CD64":{
+"name":"Button/Default/Medium/Default"
+},
+"2CB67ECA-30B2-498A-9694-C5476FC76EB9":{
+"name":"UI/Border/Sharp/Hover"
+},
+"27D0A15E-2C0B-4C0F-BD56-25CA4B7C9E76":{
+"name":"UI/Card/No Image"
+},
+"FED56F22-907C-4CD8-91D0-59804880BD4B":{
+"name":"Icon/Sketch"
+},
+"DFA5B45D-0BC7-44D7-9D40-ED269A6C5E69":{
+"name":"Button/Primary/Medium/Right with Text + Icon Left"
+},
+"14CEB7C0-77FC-4CC6-9B79-550BF18F9670":{
+"name":"Button/Default/Large/With Right Icon"
+},
+"2C09F186-082E-415C-ADD2-4950B64854C9":{
+"name":"Button/Basic/Medium/With Left Icon"
+},
+"DD2929CD-23F4-4A5E-A4B0-424A699D8642":{
+"name":"Button/Basic/Small/Default"
+},
+"A1A9A1C2-3C4C-4244-91C5-DF3DAA3BEC37":{
+"name":"UI/Color/Flat/Pink"
+},
+"CA58E594-AFDF-4306-8ADE-1C0E7C452ACD":{
+"name":"UI/State/Disabled (For Inputs)"
+},
+"77CCB5F9-12A5-4770-AF77-47DD9AF74D08":{
+"name":"UI/Border/Custom (Your Setup)/2px - 5%White"
+},
+"660105D7-7CEC-42C2-A9D2-5598D6984F65":{
+"name":"UI/Border/Custom (Your Setup)/1px - 10%Black"
+},
+"937F70C2-FEF3-42B2-90EC-616D9DBED5ED":{
+"name":"Button/Basic/Medium/Default Red"
+},
+"1F410DB8-D3F1-4FDE-8712-2657B6C10DD4":{
+"name":"Button/Basic/Medium/Labeled/Pointing/White/Right"
+},
+"2C24FBAE-A927-4115-A4DB-2229E5A5AE72":{
+"name":"Input/Default + Label + Message"
+},
+"7E4115FC-05B4-4031-91EE-C2B420B27443":{
+"name":"Button/Default/Medium/With Right Icon"
+},
+"CA62CAB8-B578-477D-BAA1-1D10A9D6BC55":{
+"name":"Icon/Circle (for Toggle)"
+},
+"45453819-D6E0-447B-99CC-F5AD4A96C784":{
+"name":"Button/Basic/Medium/Right with Text + Icon Copy"
+},
+"996DDF2C-FC0E-44E3-B4C0-10FB895728A9":{
+"name":"UI/Container/Rounded (100px)"
+},
+"DB7CD527-4AD4-447F-84A7-0014D344E5E4":{
+"name":"UI/Image/Avatar/Elliot"
+},
+"D0CC82D7-AD2F-42F9-9C35-761CF5C80D35":{
+"name":"Button/Primary/Medium/Button + Label + Double Icon + Label"
+},
+"F78A6EDB-DBB7-44A2-BC95-7C3EC4EB899D":{
+"name":"Icon/Bars Copy"
+},
+"3CE8AA03-13D4-4810-9CEC-CD45B40A8143":{
+"name":"Checkbox/Active + Label"
+},
+"98E9A9D4-A1AE-4037-BE35-36B72238F221":{
+"name":"Dropdown/Item/Top Search"
+},
+"79457A81-5B18-47E3-B95F-0537B7B1E6DC":{
+"name":"UI/Dropdown/Line/Top"
+},
+"ECF9B856-F88D-4F0A-8352-6835F4809867":{
+"name":"UI/Border/Rounded (100px)/1px - 5%White"
+},
+"4CE2A52A-BBCF-4782-BD31-2CE678DD89B3":{
+"name":"Button/Primary/Medium/Right with Text"
+},
+"77B0D220-1C87-48D7-AA59-E3A71B9F6129":{
+"name":"Button/Default/Small/With Left Icon"
+},
+"06B402AF-0CA0-4D05-8432-588FBC7C9735":{
+"name":"Button/Default/Medium/Top with Icon"
+},
+"D9733F67-FA99-4CB3-AFD6-093312EC72B1":{
+"name":"Pagination/Dots"
+},
+"5F453EDE-9C4F-4D9B-8F1F-40FD77C443CE":{
+"name":"Button/Default/Medium/Icon"
+},
+"D250210B-6B05-425A-87B1-06ECDCD65A08":{
+"name":"UI/Border/Custom (Your Setup)/Success"
+},
+"F6743611-03C2-4A07-8292-3089CEC566E1":{
+"name":"Breadcrumb/Number Circles/Active"
+},
+"3337E44D-525F-46C0-89CD-13926AC45CD8":{
+"name":"UI/Color/Flat/Violet"
+},
+"B45932C6-0BBE-441C-B17D-DF5DB00A96E2":{
+"name":"UI/Notification"
+},
+"E0B1DCCB-2707-4C0F-9626-45B555BDA079":{
+"name":"UI/Image/Avatar/Stevie"
+},
+"0605A74D-61FB-4E7C-82EF-285063A83732":{
+"name":"Input/Label + Message Top + Caption Below"
+},
+"4502E428-15B1-406E-82C9-7A7EDF5CA45C":{
+"name":"Button/Large/Default (Dark Typo)"
+},
+"13BD58C0-1743-45BE-BAB2-593B61012AEB":{
+"name":"Button/Default/Medium/Double Icon"
+},
+"BB7D0164-A6FC-4D26-94AD-B29BB03B5F25":{
+"name":"UI/Container/No Shadow"
+},
+"CE2A7529-F1AE-4787-A9DB-C2726687E5A9":{
+"name":"UI/Misc/Pointer/Right"
+},
+"99A293FD-9FC8-4A65-81D1-4C075FCAD21A":{
+"name":"Button/Default/Medium/Disabled"
+},
+"6E3E86AB-CAC5-4EA0-9783-B90D6A585494":{
+"name":"Calendar/Element Type/Different Month Number"
+},
+"9BA5848F-BD02-4047-BB29-1522EC66B08A":{
+"name":"UI/Color/Gradient/Orange"
+},
+"CA17D412-C072-4871-83F6-09E270DF696E":{
+"name":"Tab/Inactive"
+},
+"A4BEE418-E1FC-4227-AF50-23A030810E0B":{
+"name":"Button/Primary/Medium/Conditional/Text"
+},
+"EEB326E1-A51A-4AAD-9BCF-864B80680D73":{
+"name":"UI/Border/Rounded (100px)/Focus"
+},
+"88D49819-5C22-4D65-9929-6E3E59AD2F62":{
+"name":"Button/Large/With Right Icon (Dark Typo)"
+},
+"EF5D77F3-F5A9-48F9-A7DE-54F004A7613F":{
+"name":"UI/Border/Rounded (4px)/1px - 5%White"
+},
+"B2325300-E120-487F-89E5-1DEEC174F632":{
+"name":"Button/Primary/Medium/Button + Label + Image + Right Icon"
+},
+"1C33873F-1E99-49F8-8591-F113AA963705":{
+"name":"Button/Basic/Medium/Labeled/Regular/Inverted/Left With Icon"
+},
+"271F334B-0E1B-4DB4-90EA-59EC5330FC41":{
+"name":"Tab/Active"
+},
+"FDCDB130-BB48-44A3-A0A3-5320D1056399":{
+"name":"Input/Default + Label"
+},
+"63F76676-CD00-4884-AD2D-C9D52EBAC05E":{
+"name":"Button/Basic/Medium/Labeled Left"
+},
+"20903F7F-B180-4141-84AE-36BCFDAA3D64":{
+"name":"Button/Basic/Medium/Default Green"
+},
+"17BA92CA-93EE-4BE1-B2B8-DA15E46E65F8":{
+"name":"Tooltip/Dark + Icon"
+},
+"F45B2A49-5FC4-4078-8F83-9DF5DD6783DE":{
+"name":"Button/Basic/Medium/Labeled/Pointing/Color/Left With Icon"
+},
+"E91D3369-E68C-4AD3-A4B6-9E68EB6FCA57":{
+"name":"UI/Border/Sharp/2px - 10%Black"
+},
+"8B4ACBA7-B472-428C-A140-EEBEB3DB6EB8":{
+"name":"UI/Color/Flat/Olive"
+},
+"637E960D-FE45-4E19-B9C8-61EC60290889":{
+"name":"Input/Numeric"
+},
+"A8CD36D0-3EFB-4516-8607-BC2A422328A5":{
+"name":"Icon/Check Circle"
+},
+"E5DE4BE9-5CF1-4592-94C9-1CFB8260A5C5":{
+"name":"Dropdown/Item/Inactive + Image"
+},
+"5D5BA0C0-C361-4D34-B764-0D684E13F25C":{
+"name":"Checkbox/Active"
+},
+"0DB14F06-05B7-43FF-9665-371A5722AC3A":{
+"name":"Button/Default/Large/Icon Only"
+},
+"64836612-7F2B-4A9D-BAA1-8B32FA3352F0":{
+"name":"Button/Default/Medium/Button + Label + Right Icon"
+},
+"AFA162D1-F927-4169-BFC4-4988AFF1BACA":{
+"name":"Button/Basic/Medium/Labeled/Pointing/Color/Right"
+},
+"127563AD-FCA1-4D03-937E-B00AA203544E":{
+"name":"UI/Border/Custom (Your Setup)/Focus"
+},
+"76D9109D-9377-4645-96C3-10EDCABFDA65":{
+"name":"Button/Basic/Medium/Labeled/Pointing/Color/Left"
+},
+"359C478D-AACD-4D3D-9F9C-E1F443764EDF":{
+"name":"Icon/Check"
+},
+"C8469B50-A563-4514-8BAE-33B106BD5510":{
+"name":"Progress Bar/Base"
+},
+"99B932E2-4F38-4A59-A9E4-6A0E52FA7813":{
+"name":"Progress Bar/Fill"
+},
+"B8ADB311-2BA1-4B2C-A650-4D33898B94B1":{
+"name":"Calendar/Element Type/Active Number"
+},
+"623CE29C-25A0-492B-BDE5-E0F5168FB2F1":{
+"name":"Button/Basic/Medium/Labeled Right With Icon"
+},
+"F52004A5-DD8F-468C-97C8-071DDC8D8B1E":{
+"name":"Logo/White"
+},
+"0DE1B7D1-C0F1-4333-B4A3-59554D635A6E":{
+"name":"Button/Inverted/Small/Default"
+},
+"659F00A1-CFDE-4CAD-8022-700C15A688E2":{
+"name":"Button/Large/Button + Label + Double Icon + Label (Dark Typo)"
+},
+"76BCD2CC-E762-4C26-B9CA-CE284E0B238A":{
+"name":"Label/Pointing/Default/Down"
+},
+"C1BBAB94-AEE4-4317-8DD2-58F3B77EA83F":{
+"name":"Button/Basic/Medium/Labeled/Regular/Inverted/Right With Icon Only"
+},
+"9D852BB0-AA85-4015-AB87-D835BAD57326":{
+"name":"Button/Basic/Medium/Middle with Dark Text and Icon"
+},
+"FA686004-3476-40AD-83ED-49B243F8A72A":{
+"name":"Button/Default/Large/Button + Label + Double Icon + Label"
+},
+"BE1D6194-A343-4742-8713-E61D30BD724A":{
+"name":"Calendar/Top Bar"
+},
+"1EB745CD-A76C-43D0-9A50-057C301422CC":{
+"name":"Label/Dark Color"
+},
+"66D85539-9F5D-4979-B4DB-C2EFB29F4C21":{
+"name":"UI/Border/Sharp/Placeholder (Default)"
+},
+"8F6A5064-70C0-4555-808C-DB80D50D5E0E":{
+"name":"Button/Basic/Medium/Labeled/Regular/Inverted/Left With Icon Only"
+},
+"457145F5-1670-4B57-A5ED-8CBD03D68ECF":{
+"name":"UI/Color/Flat/Elements Base"
+},
+"334EA59C-2B11-4A2C-B1B5-97AA36D130AA":{
+"name":"Button/Basic/Large/With Left Icon"
+},
+"B21E9BD7-BC03-4F67-9020-FA55AF4DD855":{
+"name":"Checkbox/Inactive + Label"
+},
+"7805CDBB-0F3A-46B0-A3BD-D6C5104C79B5":{
+"name":"Button/Basic/Medium/Labeled/Pointing/White/Left With Icon"
+},
+"AF5C3A81-81F8-4426-86C9-156CB7203226":{
+"name":"Button/Medium/Button + Label + Right Icon (Dark Typo)"
+},
+"7C1D5C60-2978-4C33-9039-4A1BDB5F94D9":{
+"name":"Button/Basic/Small/With Left Icon"
+},
+"EC0B29CB-6D20-4BEB-9187-85E7FFF463D8":{
+"name":"Button/Basic/Medium/Left with Text + Icon Arrow"
+},
+"8EFFAF1D-7D34-41A8-9F38-54CA7D5B97BF":{
+"name":"UI/Border/Rounded (4px)/2px - 5%White"
+},
+"77587943-AC0E-48C0-8634-28F7D58753CE":{
+"name":"UI/Border/Sharp/Focus"
+}
+}
+},
+"1FBC0F60-4812-4754-AB80-4ED9C64F3CE9":{
+"name":"New Symbols",
+"artboards":{}
+}
+},
+"version":123,
+"fonts":[
+"HelveticaNeue-Bold",
+"Lato-Bold",
+"GothamUltra",
+"Helvetica",
+"LastResort",
+"GothamBold",
+"AppleColorEmoji",
+"OpenSans",
+"ProximaNova-Semibold",
+"FontAwesome",
+"Lato-Regular",
+"OpenSans-Semibold",
+"Lato-Italic",
+"LucidaGrande"
+],
+"compatibilityVersion":99,
+"app":"com.bohemiancoding.sketch3",
+"autosaved":0,
+"variant":"NONAPPSTORE",
+"created":{
+"commit":"6896e2bfdb0a2a03f745e4054a8c5fc58565f9f1",
+"appVersion":"63.1",
+"build":92452,
+"app":"com.bohemiancoding.sketch3",
+"compatibilityVersion":99,
+"version":123,
+"variant":"NONAPPSTORE"
+},
+"saveHistory":[
+"NONAPPSTORE.92452"
+],
+"appVersion":"63.1",
+"build":92452
+}
